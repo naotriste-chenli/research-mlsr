@@ -1,0 +1,3 @@
+<< N/A >>
+
+DOCKING FAILED (inf RMSD)
