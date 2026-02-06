@@ -2,7 +2,7 @@
     -   Created the script for redocking of Astex Diverse Dataset (approx. 01/23/2026)
     -   Adjusting of GNINA's arguments for the minimization for Iteration_1.sh & Iteration_2.sh (approx. 01/28/2026)
     -   Implemented a pose selection criteria for Iteration_3.sh (02/02/2026)
-    -   Recoding of the algorithm in Iteration_4.sh for PopOS! Since the custom kernel drivers for CachyOS caused issues in booting of the laptop (02/06/2026) 
+    -   Recoding of the algorithm in Iteration_4.sh for PopOS! Since the custom kernel drivers for CachyOS caused issues in initializing ramdisk (initrd), making boot times longer at ~4 minutes (02/06/2026) 
     -   Fixed a minimization problem where RMSD values would be evaluated as "inf" when using --cnn_scoring refinement and --cnn_scoring all by implementing a self-dependent pose selection criteria for Iteration_4.sh (02/06/2026)
 
 ## RMSD OF REDOCKING BENCHMARK LOG:
