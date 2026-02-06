@@ -6,7 +6,7 @@
     -   Fixed a minimization problem where RMSD values would be evaluated as "inf" when using --cnn_scoring refinement and --cnn_scoring all by implementing a self-dependent pose selection criteria for Iteration_4.sh (02/06/2026)
 
 ## RMSD OF REDOCKING BENCHMARK LOG:
-    - Iteration_1.sh - MEAN: 2.8946391114754, MEDIAN: 1.8659                   , SUCCESS RATE: 97.65%
+    - Iteration_1.sh - MEAN: 2.8946391114754, MEDIAN: 1.8659                   , SUCCESS RATE: 98.82% (84/85 proteins were docked with high confidence)
     - Iteration_2.sh - MEAN: inf            , MEDIAN: 2.1491813233766 (invalid), SUCCESS RATE: 0%
-    - Iteration_3.sh - MEAN: 1.8643846007287, MEDIAN: 1.45537                  , SUCCESS RATE: 72.94% (62/85 proteins were docked with high confidence)
-    - Iteration_4.sh - MEAN: 1.0283359858491, MEDIAN: 0.951621                 , SUCCESS RATE: 90.6% (77/85 proteins were docked with high confidence)
+    - Iteration_3.sh - MEAN: 1.8643846007287, MEDIAN: 1.45537                  , SUCCESS RATE: 84.70% (72/85 proteins were docked with high confidence)
+    - Iteration_4.sh - MEAN: 1.0283359858491, MEDIAN: 0.951621                 , SUCCESS RATE: 95.29% (81/85 proteins were docked with high confidence)
