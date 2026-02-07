@@ -1,7 +1,7 @@
 # Revision of the script for redocking (02/06/2026)
 
 The tools necessary were compiled upon installation of PopOS. Starting with the compiling of VinaGPU:
-![VinaGPU](Images/VinaGPU%20Compilation.png)
+![VinaGPU](Images/Vina%20Compilation.png)
 
 It was compiled using CUDA release 12.0. Since compiling with 'anything but' caused major issues like segmentation faults. The compiling of VinaGPU also needed Boost 1.84.0, thus this dependency was downloaded as well. Eventually, the tools needed for the research were downloaded and placed in a specified folder `/home/li/pseudobin/appname.` So it can be easily implemented in pipelines. The applications/binaries used are indicated below:
 - NAnoscale Molecular Dynamics (NAMD) - [Linux-x86_64-multicore-CUDA](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=NAMD) - 
