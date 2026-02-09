@@ -8,7 +8,7 @@ if ls | grep "results"; then
     else
     
         mkdir results
-        
+        MKDIR results/pdbqt
 fi
 
 eval "$(conda shell.bash hook)"
@@ -355,16 +355,6 @@ for qt in ${NAME}*.pdbqt; do
     echo "RMSD_CONVERGENCE(${NAME}): $OUTPUT" >> RMSD_convergence.csv
     
 # << Moving the pdbqt files into a specific folder >>
-
-if ls | grep "pdbqt"; then
-
-    echo "Continuing from previous working directory: pdbqt/"
-    
-else
-    
-            mkdir pdbqt
-        
-fi
 
 cd ..
 
