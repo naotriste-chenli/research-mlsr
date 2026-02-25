@@ -1,0 +1,16 @@
+#!/bin/env bash
+
+gap_message 'obminimize'
+
+source "$source/Utilities/obminimize" $ff $crit $ob_mode $format
+
+source "$source/Utilities/pdbqt_conversion" ligand $pdbqt_mode
+
+gap_message 'gyration_to_json'
+
+source "$source/Utilities/gyration_to_json"
+
+mkdir ligand_sdfs 2> /dev/null
+
+mv *.sdf *.pdbqt ligand_sdfs/
+rm *.pdb

@@ -1,0 +1,56 @@
+#!/bin/env bash
+
+total_proteins=$(find "$protein_realpath"/*.pdbqt | wc -l)
+total_ligands=$(find "$ligand_realpath"/*.mol2 | wc -l)
+total_total=$(($total_proteins * $total_ligands))
+iend_proteins=$(($total_proteins - 1))
+iend_ligands=$(($total_ligands - 1))
+i_proteins="-1"
+i_ligands="-1"
+
+jq --null-input \
+--arg total $total_total \
+--arg directory $initial_dir \
+'{"total_total": $total, "directory": $directory, "input_files": []}' > input.json
+
+initial_dir=$(cat input.json | jq -r '.directory')
+
+prepare_input()
+{
+
+cd $initial_dir
+
+while [ $i_ligands -lt "$iend_ligands" ]; do
+
+    i_ligands=$(($i_ligands + 1))
+    
+    ligand=$(cat "$ligand_realpath/ligand_list.json" | jq --arg n $i_ligands -r '.ligands[$n | tonumber].ligand_file')
+    box_radius=$(cat "$ligand_realpath/ligand_list.json" | jq --arg n $i_ligands -r '.ligands[$n | tonumber].box_radius')
+    heavy_atoms=$(cat "$ligand_realpath/ligand_list.json" | jq --arg n $i_ligands -r '.ligands[$n | tonumber].heavy_atom')
+    
+    while [ $i_proteins -lt "$iend_proteins" ]; do
+    
+        i_proteins=$(($i_proteins + 1))
+    
+        protein=$(cat "$protein_realpath/protein_list.json" | jq --arg n $i_proteins -r '.proteins[$n | tonumber].protein_file')
+        x=$(cat "$protein_realpath/protein_list.json" | jq --arg n $i_proteins -r '.proteins[$n | tonumber].x_coord')
+        y=$(cat "$protein_realpath/protein_list.json" | jq --arg n $i_proteins -r '.proteins[$n | tonumber].y_coord')
+        z=$(cat "$protein_realpath/protein_list.json" | jq --arg n $i_proteins -r '.proteins[$n | tonumber].z_coord')
+    
+        cat input.json | jq --arg ligand_path "$ligand_realpath/ligand_sdfs/$ligand" \
+                           --arg protein_path "$protein_realpath/$protein" \
+                           --arg ligand ${ligand%.*} \
+                           --arg protein ${protein%.*} \
+                           --arg heavy $heavy_atoms \
+                           --arg box_radius $box_radius \
+                           --arg x $x \
+                           --arg y $y \
+                           --arg z $z \
+                           '.input_files += [{"ligand_path": $ligand_path, "protein_path": $protein_path, "ligand": $ligand, "protein": $protein, "ligand_heavy_atoms": $heavy, "box_radius": $box_radius, "x": $x, "y": $y, "z": $z}]' input.json | sponge input.json
+                
+    done
+    
+    i_proteins="-1"
+    
+done
+}

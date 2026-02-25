@@ -1,0 +1,63 @@
+#!/bin/env bash
+
+# environments
+conda_activate_meeko="conda activate mk_pdbfixer"
+conda_activate_vinagpu="conda activate vinagpu-opencl"
+conda_activate_gnina="conda activate gnina"
+mgl_pythonsh="/home/li/Documents/pseudobin/mgltools_x86_64Linux2_1.5.7/bin/pythonsh"
+mgl_utils="/home/li/Documents/pseudobin/mgltools_x86_64Linux2_1.5.7/MGLToolsPckgs/AutoDockTools/Utilities24"
+vina_gpu="/home/li/Documents/pseudobin/Vina-GPU-2.1/QuickVina2-GPU-2.1/QuickVina2-GPU-2-1"
+open_cl="/home/li/Documents/pseudobin/Vina-GPU-2.1/QuickVina2-GPU-2.1"
+vina_split="/$source/Utilities/vina_split"
+gnina="/$source/Utilities/gnina"
+
+# variables for obminimize
+# ff options: MMFF94, MMFF94s, UFF, GAFF, Ghemical
+# crit example: 1 x 10^-16 kcal/mol is 1e16 kcal/mol
+# ob_mode: int
+# format options (the file format of the ligand): sdf, mol2, pdb 
+ff="MMFF94"
+crit="1e16"
+ob_mode="8"
+format="mol2"
+
+# variables for pdbfixer
+#pdbf_mode: int
+pdbf_mode="15"
+
+# variables for p2rank
+#p2r_mode: int
+p2r_mode="12"
+
+# variables for energy minimization
+#pdbmin_mode: int
+pdbmin_mode="20"
+
+# variables for pdbqt conversion
+#pdbqt_mode: int
+pdbqt_mode="15"
+
+# misc
+
+initial_dir="$(pwd)"
+
+gap_message()
+{
+
+local proc="$1"
+
+echo ""
+echo "Proceeding to: $proc"
+echo ""
+
+}
+
+adt_utils()
+{
+
+    local pythonsh=$mgl_pythonsh
+    local util=$mgl_utils
+
+    $pythonsh \ $util/$1 $2
+
+}

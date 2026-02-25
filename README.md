@@ -4,6 +4,8 @@
     -   Implemented a pose selection criteria for Iteration_3.sh (02/02/2026)
     -   Recoding of the algorithm in Iteration_4.sh for PopOS! Since the custom kernel drivers for CachyOS caused issues in initializing ramdisk (initrd), making boot times longer at ~4 minutes (02/06/2026) 
     -   Fixed a minimization problem where RMSD values would be evaluated as "inf" when using --cnn_scoring refinement and --cnn_scoring all by implementing a self-dependent pose selection criteria for Iteration_4.sh (02/06/2026)
+    -   The RHINOS Is Not Only for Strep (RHINOS) workflow was made (02/25/2026)
+    -   trueRHINOS directory contains all the modules for the study including but not limited to: batch energy minimization of ligands, pdbqt conversion in batches using legacy writers, batch minimization of proteins using OpenMM along with Nvidia MPS daemon (02/25/2026)
 
 # RMSD OF REDOCKING BENCHMARK LOG:
     - The docking workflow was validated first using the Astex Diverse Dataset and eventually the PoseBusters Benchmark Set. The results are given below:

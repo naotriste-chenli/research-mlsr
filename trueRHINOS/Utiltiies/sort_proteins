@@ -1,0 +1,44 @@
+#!/bin/env bash
+
+if ls *_min.pdbqt | grep -o ".pdbqt" > /dev/null; then
+
+	i_end=$(ls *_min.pdbqt | wc -l)
+
+	if [ "$p2r_prevent_loop" != "true" ]; then
+
+		p2r_prevent_loop="true"
+
+		jq --null-input \
+		   --arg total $i_end \
+		   --arg directory "$(pwd)" \
+		   '{"total_proteins": $total, "directory": $directory, "proteins": []}' > protein_list.json 
+
+	else
+
+		:
+
+	fi
+
+	for proteins in *_min.pdbqt; do
+
+        template=${proteins#*/}
+
+		x=$(awk -F ',' 'NR==2 {print $7}' "${template%.*}_pocket"/"${proteins%.*}.pdb_predictions.csv" | sed 's/ //g')
+		y=$(awk -F ',' 'NR==2 {print $8}' "${template%.*}_pocket"/"${proteins%.*}.pdb_predictions.csv" | sed 's/ //g')
+		z=$(awk -F ',' 'NR==2 {print $9}' "${template%.*}_pocket"/"${proteins%.*}.pdb_predictions.csv" | sed 's/ //g') 
+
+		cat protein_list.json | jq \
+		--arg name "$proteins" \
+		--arg x "$x" \
+		--arg y "$y" \
+		--arg z "$z" \
+		'.proteins += [{"protein_file": $name, "x_coord": $x, "y_coord": $y, "z_coord": $z}]' > tmp.json && mv tmp.json protein_list.json
+
+	done
+
+else
+
+	echo "No PDBs found in:"
+	echo "$(pwd)"
+
+fi

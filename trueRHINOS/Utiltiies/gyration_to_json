@@ -1,0 +1,34 @@
+#!/bin/env bash
+
+i_total=$(eval "ls *.sdf | wc -l")
+
+echo "total ligands: $i_total"
+
+	if [[ $prevent_loop != "true" ]]; then
+
+		prevent_loop="true"
+
+		jq --null-input \
+		   --arg total $i_total \
+		   --arg directory $(pwd) \
+		   '{"total_ligands": $total, "directory": $directory, "ligands": []}' > ligand_list.json
+
+        prevent_loop="false"
+
+	else
+	
+	   :
+	   
+    fi
+
+		for ligands in *.sdf; do
+
+			gyration=$(python $source/Utilities/know_gyration.py $ligands)
+			heavyatom=$(python $source/Utilities/know_heavyatoms.py $ligands)
+			cat ligand_list.json | jq \
+				--arg name "${ligands%.*}.pdbqt" \
+				--arg gyration "$gyration" \
+				--arg heavy "$heavyatom" \
+				'.ligands += [{"ligand_file": $name, "box_radius": $gyration, "heavy_atom": $heavy}]' > tmp.json && mv tmp.json ligand_list.json
+
+		done

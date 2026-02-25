@@ -1,0 +1,42 @@
+#!/bin/bash
+
+FF="$1"
+CRIT="$2"
+MODE="$3"
+FORMAT="$4"
+
+message()
+{
+    echo "Minimizing ${MODE} ligands per batch."
+    echo "Forcefield: ${FF}"
+    echo "Criterion: ${CRIT}"
+}
+
+
+
+if ls *."${FORMAT}" > /dev/null; then
+
+	if [ $MODE -gt "1" ]; then
+		message
+		echo "Mode: batch"
+
+		ls *."${FORMAT}" | xargs -P ${MODE} -I{} sh -c 'obminimize -o sdf -ff ${0} -c ${1} -h ${2} > ${2%.*}.sdf 2> /dev/null' ${FF} ${CRIT} {}
+		
+		ls *."${FORMAT}" | xargs -P ${MODE} -I{} sh -c 'obminimize -o pdb -ff ${0} -c ${1} -h ${2} > ${2%.*}.pdb 2> /dev/null' ${FF} ${CRIT} {}
+
+	else
+
+		message
+		echo "Mode: single"
+
+		ls *."${FORMAT}" | xargs -P 1 -I{} sh -c 'obminimize -o sdf -ff ${0} -c ${1} -h ${2} > ${2%.*}.sdf 2> /dev/null' ${FF} ${CRIT} {}
+		
+		ls *."${FORMAT}" | xargs -P 1 -I{} sh -c 'obminimize -o pdb -ff ${0} -c ${1} -h ${2} > ${2%.*}.pdb 2> /dev/null' ${FF} ${CRIT} {}
+
+	fi
+
+else
+
+	echo "Can't find files, perhaps the file format: ${FORMAT} is wrong?"
+
+fi

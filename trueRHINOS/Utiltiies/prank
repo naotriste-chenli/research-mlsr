@@ -1,0 +1,32 @@
+#!/bin/env bash
+
+mode="$1"
+
+p2rank()
+{
+ls *_min.pdb | xargs -P $1 -I{} sh -c  '$0/Utilities/p2rank/prank predict -f $1 -o ${1%.*}_pocket > /dev/null 2>&1' $source {}
+}
+
+if ls *_min.pdb | grep -o ".pdb" > /dev/null; then
+
+	echo "Predicting $mode binding pockets per batch."
+
+	if [ $mode -gt "1" ]; then
+
+		echo "Mode: batch"
+		p2rank $mode
+
+	else
+
+		echo "Mode: single"
+		p2rank 1
+
+	fi
+
+
+else
+
+	echo "PDBs not found in:"
+	echo "$(pwd)"
+
+fi

@@ -1,0 +1,34 @@
+#!/bin/env bash
+
+mode="$1"
+
+pdbfixer_cmd()
+{
+    
+    ls *.pdb | xargs -P $1 -I{} sh -c 'pdbfixer $0 --add-atoms all --replace-nonstandard --keep-heterogens none --ph=7.0 --output ${0%.*}_fixed.pdb' {}
+
+}
+
+if ls *.pdb | grep -o ".pdb" > /dev/null; then
+
+    echo "Fixing ${mode} PDBs per batch."
+    
+    if [ $mode -gt "1" ]; then    
+    
+        echo "Mode: batch"
+        pdbfixer_cmd ${mode}
+    
+    else
+    
+        echo "Fixing 1 PDBs per batch."
+        echo "Mode: single"
+        pdbfixer_cmd 1
+
+    fi
+
+else
+
+    echo "PDB Files not found in:"
+    echo "$(pwd)"
+    
+fi

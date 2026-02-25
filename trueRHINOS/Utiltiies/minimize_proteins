@@ -1,0 +1,32 @@
+#!/bin/env bash
+
+nvidia-cuda-mps-control -d
+
+mode="$1"
+
+if ls *_fixed.pdb | grep -o ".pdb"; then
+
+	if [[ $mode -gt "1" ]]; then
+
+		echo "Minimizing $mode proteins per batch"
+		echo "Mode: batch"
+
+		ls *_fixed.pdb | xargs -P $mode -I{} sh -c 'python $0 $1 ${1%.*}_min.pdb' $source/Utilities/minimize_gasphase.py {}
+
+	else
+
+		echo "Minimizing 1 proteins per batch"
+		echo "Mode: single"
+
+		ls *_fixed.pdb | xargs -P $mode -I{} sh -c 'python $0 $1 ${1%.*}_min.pdb' $source/Utilities/minimize_gasphase.py {}
+
+	fi
+
+else
+
+	echo "No PDBs found in:"
+	echo "$(pwd)"
+
+fi
+
+echo quit | nvidia-cuda-mps-control

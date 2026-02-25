@@ -1,0 +1,66 @@
+#!/bin/env bash
+
+total=$(cat input.json | jq -r '.total_total')
+iend_total=$(($total - 1))
+i="-1"
+
+get_key()
+{
+
+	cat input.json | jq \
+	--arg n $1 \
+	--arg value $2 \
+	-r '.input_files[$n | tonumber][$value]'
+
+}
+
+while [ $i -lt "$iend_total" ]; do
+
+    eval $conda_activate_vinagpu
+    export LD_LIBRARY_PATH="$CONDA_PREFIX/lib:$LD_LIBRARY_PATH"
+
+	i=$(($i + 1))
+
+	protein_path=$(get_key $i protein_path)	
+	ligand_path=$(get_key $i ligand_path)
+	protein=$(get_key $i protein)
+	ligand=$(get_key $i ligand)
+	heavy_atom=$(get_key $i ligand_heavy_atoms)
+	box_radius=$(get_key $i box_radius)
+	x=$(get_key $i x)
+	y=$(get_key $i y)
+	z=$(get_key $i z)
+
+    "$vina_gpu" --receptor "$protein_path" \
+              --ligand "$ligand_path" \
+              --size_x $box_radius \
+              --size_y $box_radius \
+              --size_z $box_radius \
+              --center_x $x \
+              --center_y $y \
+              --center_z $z \
+              --num_modes 200 \
+              --opencl_binary_path $open_cl \
+              --search_depth 28 \
+              --thread 15000 \
+              --out "${ligand}_${protein}".pdbqt > /dev/null
+              
+     $vina_split --input "${ligand}_${protein}".pdbqt
+
+     eval $conda_activate_gnina
+     export LD_LIBRARY_PATH="$CONDA_PREFIX/lib:$LD_LIBRARY_PATH"
+     
+     mkdir "$ligand" > /dev/null
+     mkdir "$ligand/$protein" > /dev/null
+     
+     nvidia-cuda-mps-control -d
+     
+     ls "${ligand}_${protein%.*}"_ligand_*.pdbqt | xargs -P 20 -I{} sh -c '$0 -r $1 -l $2 --exhaustiveness 16 --minimize --cnn_scoring rescore -o ${2%.*}_rescored.pdbqt > /dev/null && mv ${2%.*}_rescored.pdbqt "$3/$4"' $gnina "$protein_path" {} "$ligand" "$protein"
+               
+     ls "${ligand}_${protein%.*}"_ligand_*.pdbqt | xargs -P 20 -I{} sh -c '$0 -r $1 -l $2 --exhaustiveness 16 --minimize --cnn_scoring refinement -o ${2%.*}_refined.pdbqt > /dev/null && mv ${2%.*}_refined.pdbqt "$3/$4"' $gnina "$protein_path" {} "$ligand" "$protein"
+     
+     echo quit | nvidia-cuda-mps-control
+     
+rm *.pdbqt
+
+done

@@ -1,0 +1,134 @@
+#!/bin/env bash
+
+source=$(dirname "$BASH_SOURCE[0]")
+
+eval "$(conda shell.bash hook)"
+source "$source/Utilities/export"
+
+isFolder()
+{
+	if ls | grep -ox "$1" > /dev/null; then
+
+		echo "Folder found: $1"
+
+	else
+
+		echo "The inputs provided are not folders/directories: $1"
+		exit 1
+
+	fi
+}
+
+help()
+{
+	echo "RHINOS Is Not Only for Strep (RHINOS)"
+	echo "-l <ligand_directory>"
+	echo "-p <protein_directory>"
+	echo ""
+	echo "NOTE: You can edit the 'export' file in \$RHINOS_HOME/Utilities"
+}
+
+while getopts "l:p:m:" opt; do
+	case $opt in
+		l) ligand_folder="$OPTARG"
+		   isFolder $ligand_folder 
+		   ligand_realpath=$(realpath $ligand_folder) ;;
+		p) protein_folder="$OPTARG"
+		   isFolder $protein_folder
+		   protein_realpath=$(realpath $protein_folder) ;;
+		m) rhinos_mode="$OPTARG" ;;
+	esac
+done
+
+if [ $# -eq 0 ]; then
+
+        echo "<< No input provided. >>"
+        help
+
+elif [ -z "$ligand_folder" ] || [ -z "$protein_folder" ] || [ -z "$rhinos_mode" ]; then
+
+	echo "<< Missing an input >>"
+	help
+
+fi
+
+source_this()
+{
+
+    source "$source/Utilities/$1" $2 $3
+
+}
+
+# << pipeline >>
+
+if [[ $rhinos_mode == "all" ]]; then
+
+    echo "Current directory: $(pwd)"
+
+    source_this "prepare_dock"
+
+    cd $ligand_realpath
+
+    source_this "prepare_ligands"
+
+    cd $protein_realpath
+
+    source_this "prepare_proteins"
+    
+    source_this "minimize_proteins" $pdbmin_mode
+    source_this "pdbqt_conversion" protein ${pdbqt_mode}
+
+    prepare_input
+
+elif [[ $rhinos_mode == "prepare_dock_only" ]]; then
+
+    source_this "prepare_dock"
+    prepare_input
+    
+elif [[ $rhinos_mode == "prepare_ligands_only" ]]; then
+
+    cd $ligand_realpath
+
+    source_this "prepare_ligands"
+    
+elif [[ $rhinos_mode == "prepare_proteins_only" ]]; then
+
+    cd $protein_realpath
+
+    source_this "prepare_proteins"
+    
+elif [[ $rhinos_mode == "pdbqt_conversion_only" ]]; then
+
+    cd $protein_realpath
+    
+    source_this "pdbqt_conversion" protein ${pdbqt_mode}
+    
+elif [[ $rhinos_mode == "minimize_proteins_only" ]]; then
+
+    cd $protein_realpath
+
+    source_this "minimize_proteins" $pdbmin_mode
+
+elif [[ $rhinos_mode == "protein_json_only" ]]; then
+
+    cd $protein_realpath
+
+    source_this "sort_proteins"
+    
+elif [[ $rhinos_mode == "prepare_pockets_only" ]]; then
+
+    cd $protein_realpath
+    
+    source_this "prank" $p2r_mode
+    
+elif [[ $rhinos_mode == "do_dock_only" ]]; then
+
+    source_this "do_dock"
+
+else
+
+    echo " "
+    echo "<< No mode provided, options are... >>"
+    echo "all, prepare_dock_only, prepare_ligands_only, prepare_proteins_only, pdbqt_conversion_only, minimize_proteins_only"
+    
+fi

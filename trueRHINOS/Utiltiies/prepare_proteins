@@ -1,0 +1,28 @@
+#!/bin/env bash
+
+gap_message pdbfixer
+
+source "$source/Utilities/pdbfixer" $pdbf_mode
+
+gap_message minimize_proteins
+
+source "$source/Utilities/minimize_proteins" $pdbmin_mode
+
+gap_message p2rank
+
+source "$source/Utilities/prank" $p2r_mode
+
+gap_message sort_proteins
+
+source "$source/Utilities/sort_proteins"
+
+gap_message pdbqt_conversion
+
+source "$source/Utilities/pdbqt_conversion"
+
+for proteins in *_fixed.pdb; do
+
+    mv ${proteins%.*}.pdbqt "${proteins%.*}_pocket"
+    mv $proteins "${proteins%.*}_pocket"
+    
+done
