@@ -1,0 +1,12 @@
+{
+  "total_proteins": "1",
+  "directory": "/home/li/Desktop/Research_Virtual_Lab/Scaffold_Docking_1/protein",
+  "proteins": [
+    {
+      "protein_file": "6PQL_A_fixed_min.pdbqt",
+      "x_coord": "36.0350",
+      "y_coord": "-4.5127",
+      "z_coord": "75.3160"
+    }
+  ]
+}

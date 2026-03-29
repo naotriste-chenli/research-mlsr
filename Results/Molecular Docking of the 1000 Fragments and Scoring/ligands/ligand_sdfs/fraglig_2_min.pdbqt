@@ -1,0 +1,9 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  N   GLY A   1       2.897  -0.551   0.000  1.00  0.00    -0.189 NA
+ATOM      2  CA  GLY A   1       1.868  -0.010   0.000  1.00  0.00     0.129 C 
+ATOM      3  C   GLY A   1       0.614   0.709   0.000  1.00  0.00     0.351 C 
+ATOM      4  O   GLY A   1      -0.469   0.137   0.000  1.00  0.00    -0.291 OA
+ENDROOT
+TORSDOF 0

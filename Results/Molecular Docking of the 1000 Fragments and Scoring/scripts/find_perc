@@ -1,0 +1,101 @@
+#!/bin/env bash
+
+eval "$(conda shell.bash hook)"
+
+rm best-poses*.sdf
+
+echo "Provide the folder where the MM-GBSA runs are:"
+read -e FOLDER
+FOLDER=$(realpath "$FOLDER")
+
+max=$(cat output.json | jq -c '.data' | mlr --ijson --opprint cat | awk '$3 != "-" && NR > 2 {print $3}' | datamash perc:95 1)
+
+sorted_scores=$(cat output.json | jq -c '.data' | mlr --ijson --opprint cat | awk -v x="$max" '$3 >= x && NR > 2 {print $3 " " $2}' | sort -nr | awk '{print $1}')
+sorted_ligands=$(cat output.json | jq -c '.data' | mlr --ijson --opprint cat | awk -v x="$max" '$3 >= x && NR > 2 {print $3 " " $2}' | sort -nr | awk '{print $2}')
+
+readarray -t ligand_array < <(echo "$sorted_ligands")
+readarray -t scores_array < <(echo "$sorted_scores")
+readarray -t protein_0_array < <(cat output.json | jq -c '.data' | mlr --ijson --opprint cat | awk -v x="$max" '$3 >= x && NR > 2 {print $1}')
+readarray -t protein_1_array < <(printf '%s\n' "${protein_0_array[@]}" | sort -u)
+
+n="-1"
+
+for i in ${ligand_array[@]}; do
+
+	for p in ${protein_1_array[@]}; do
+
+		while [ "$n" -lt $(("${#scores_array[@]}" - 1)) ]; do
+
+			n=$(($n + 1))
+
+			ligand="${ligand_array[$n]}"
+			score="${scores_array[$n]}"
+
+			cat "$FOLDER/$ligand/${p}"*/*best-pose.sdf | sed "s/ligand.pdb/${ligand}_${p}_${score}_rhidx/g" >> "best-poses_${p}.sdf"
+
+		done
+
+	done
+
+done
+
+for f in best-poses*.sdf; do
+
+	readarray -t name_array < <(cat $f | grep "rhidx")
+	readarray -t tanimoto_array < <(python find_perc.py $f)
+
+	xi="-1"
+
+	while [[ $xi -lt $(("${#name_array[@]}" - 1)) ]]; do
+
+		xi=$(($xi + 1))
+
+		xf=$(($xi + "${#name_array[@]}" - 1))
+
+		name=$(echo "${name_array[$xi]}")
+
+		echo "${tanimoto_array[$xi]} ${name_array[$xi]}"
+
+	done | sort -nr > temp.txt
+
+	obabel -isdf $f -omol -O "${f%.*}_rank_.mol" -m
+
+	readarray -t sorted_names < <(cat temp.txt | awk '{print $2}')
+
+	rm temp.txt
+
+	for f in ${sorted_names[@]}; do
+
+        grep -rl $f *.mol >> temp.txt
+
+   		readarray -t combined_array < <(cat temp.txt)
+
+	done
+	
+	v="0"
+	z="1"
+	
+	conda activate fragmenstein
+	
+	for i in ${combined_array[@]}; do
+	
+	   if [[ $prevent_loop != "true" ]]; then
+	   
+	       prevent_loop="true"
+	   
+	       python find_perc_merge.py "${combined_array[0]}" "${combined_array[1]}" "seed_${v}.mol" test.pdb
+	       
+	   else
+	   
+           v=$(($v + 1))
+           v1=$(($v - 1))
+           z=$(($z + 1))
+           
+           python find_perc_merge.py "seed_${v1}.mol" "${combined_array[$z]}" "seed_${v}.mol" test.pdb
+	       
+	   fi
+	   
+	done
+
+done
+

@@ -1,0 +1,5006 @@
+{
+  "total_ligands": "2000",
+  "directory": "/home/li/Desktop/Research_Virtual_Lab/Scaffold_Docking_2/ligand",
+  "ligands": [
+    {
+      "ligand_file": "fraglig_1000_min.pdbqt",
+      "box_radius": "7.918900875850491",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_100_min.pdbqt",
+      "box_radius": "12.026107752424",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_101_min.pdbqt",
+      "box_radius": "6.3618797215941125",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_102_min.pdbqt",
+      "box_radius": "7.648414615293221",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_103_min.pdbqt",
+      "box_radius": "4.943617056880523",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_104_min.pdbqt",
+      "box_radius": "7.124722656448014",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_105_min.pdbqt",
+      "box_radius": "12.001725869587956",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_106_min.pdbqt",
+      "box_radius": "8.946356140587342",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_107_min.pdbqt",
+      "box_radius": "9.050450706566783",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_108_min.pdbqt",
+      "box_radius": "8.702474864198981",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_109_min.pdbqt",
+      "box_radius": "6.702983192415287",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_10_min.pdbqt",
+      "box_radius": "4.649705586964052",
+      "heavy_atom": "5"
+    },
+    {
+      "ligand_file": "fraglig_110_min.pdbqt",
+      "box_radius": "7.808837411045613",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_111_min.pdbqt",
+      "box_radius": "5.921798650949734",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_112_min.pdbqt",
+      "box_radius": "5.788288242775726",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_113_min.pdbqt",
+      "box_radius": "5.919970479884822",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_114_min.pdbqt",
+      "box_radius": "7.411681520384061",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_115_min.pdbqt",
+      "box_radius": "5.815023155075723",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_116_min.pdbqt",
+      "box_radius": "5.41530392464527",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_117_min.pdbqt",
+      "box_radius": "6.944032052184804",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_118_min.pdbqt",
+      "box_radius": "7.1968794147322255",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_119_min.pdbqt",
+      "box_radius": "8.234751617698949",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_11_min.pdbqt",
+      "box_radius": "5.418088703769068",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_120_min.pdbqt",
+      "box_radius": "5.597077694224774",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_121_min.pdbqt",
+      "box_radius": "6.338616348427148",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_122_min.pdbqt",
+      "box_radius": "9.328381604597967",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_123_min.pdbqt",
+      "box_radius": "9.263874977638215",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_124_min.pdbqt",
+      "box_radius": "6.350473012413195",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_125_min.pdbqt",
+      "box_radius": "6.016797878583696",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_126_min.pdbqt",
+      "box_radius": "6.073903313651649",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_127_min.pdbqt",
+      "box_radius": "9.977069236193653",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_128_min.pdbqt",
+      "box_radius": "7.0947097015880125",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_129_min.pdbqt",
+      "box_radius": "5.803897983149694",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_12_min.pdbqt",
+      "box_radius": "6.4732840472190665",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_130_min.pdbqt",
+      "box_radius": "8.633274845729145",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_131_min.pdbqt",
+      "box_radius": "8.867562244647836",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_132_min.pdbqt",
+      "box_radius": "6.502996490473444",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_133_min.pdbqt",
+      "box_radius": "7.295838977131808",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_134_min.pdbqt",
+      "box_radius": "5.109034816288225",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_135_min.pdbqt",
+      "box_radius": "6.340797893237897",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_136_min.pdbqt",
+      "box_radius": "5.410457096728006",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_137_min.pdbqt",
+      "box_radius": "8.270998553731147",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_138_min.pdbqt",
+      "box_radius": "6.61342683870483",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_139_min.pdbqt",
+      "box_radius": "8.03068625407483",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_13_min.pdbqt",
+      "box_radius": "3.8444340565314192",
+      "heavy_atom": "6"
+    },
+    {
+      "ligand_file": "fraglig_140_min.pdbqt",
+      "box_radius": "9.158201210200708",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_141_min.pdbqt",
+      "box_radius": "5.5717921318211205",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_142_min.pdbqt",
+      "box_radius": "7.328665714391196",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_143_min.pdbqt",
+      "box_radius": "6.7440808609642815",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_144_min.pdbqt",
+      "box_radius": "8.34069084026219",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_145_min.pdbqt",
+      "box_radius": "5.705066168496015",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_146_min.pdbqt",
+      "box_radius": "6.838427732096403",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_147_min.pdbqt",
+      "box_radius": "4.4774800621907875",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_148_min.pdbqt",
+      "box_radius": "9.1577658337523",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_149_min.pdbqt",
+      "box_radius": "5.640758856789291",
+      "heavy_atom": "6"
+    },
+    {
+      "ligand_file": "fraglig_14_min.pdbqt",
+      "box_radius": "6.153792143332292",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_150_min.pdbqt",
+      "box_radius": "8.097313332727719",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_151_min.pdbqt",
+      "box_radius": "8.373382393676245",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_152_min.pdbqt",
+      "box_radius": "5.155166695940034",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_153_min.pdbqt",
+      "box_radius": "6.934773491730348",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_154_min.pdbqt",
+      "box_radius": "7.337601037440102",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_155_min.pdbqt",
+      "box_radius": "9.082419140661619",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_156_min.pdbqt",
+      "box_radius": "8.22833127227057",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_157_min.pdbqt",
+      "box_radius": "9.944388644295154",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_158_min.pdbqt",
+      "box_radius": "7.604099188578137",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_159_min.pdbqt",
+      "box_radius": "5.619518378718529",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_15_min.pdbqt",
+      "box_radius": "5.611485658448239",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_160_min.pdbqt",
+      "box_radius": "9.000338638097293",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_161_min.pdbqt",
+      "box_radius": "5.132839499817562",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_162_min.pdbqt",
+      "box_radius": "8.049447093132514",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_163_min.pdbqt",
+      "box_radius": "8.937842471832239",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_164_min.pdbqt",
+      "box_radius": "10.35729677935117",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_165_min.pdbqt",
+      "box_radius": "10.283452508880337",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_166_min.pdbqt",
+      "box_radius": "9.446848584718614",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_167_min.pdbqt",
+      "box_radius": "5.990005268744536",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_168_min.pdbqt",
+      "box_radius": "5.47707741838269",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_169_min.pdbqt",
+      "box_radius": "5.509838225846896",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_16_min.pdbqt",
+      "box_radius": "5.166698263326804",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_170_min.pdbqt",
+      "box_radius": "5.564570613435967",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_171_min.pdbqt",
+      "box_radius": "9.44556160254114",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_172_min.pdbqt",
+      "box_radius": "10.44659008462133",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_173_min.pdbqt",
+      "box_radius": "7.671878584185043",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_174_min.pdbqt",
+      "box_radius": "5.988002216447136",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_175_min.pdbqt",
+      "box_radius": "5.149084086314206",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_176_min.pdbqt",
+      "box_radius": "9.260900032901608",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_177_min.pdbqt",
+      "box_radius": "8.653390231270002",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_178_min.pdbqt",
+      "box_radius": "6.8568484102503096",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_179_min.pdbqt",
+      "box_radius": "6.488317903967345",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_17_min.pdbqt",
+      "box_radius": "6.720653633202755",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_180_min.pdbqt",
+      "box_radius": "7.519001599069561",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_181_min.pdbqt",
+      "box_radius": "9.754648526028584",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_182_min.pdbqt",
+      "box_radius": "8.776234589638893",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_183_min.pdbqt",
+      "box_radius": "7.314445725501547",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_184_min.pdbqt",
+      "box_radius": "9.343502103712227",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_185_min.pdbqt",
+      "box_radius": "5.252660607036968",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_186_min.pdbqt",
+      "box_radius": "5.804064929298974",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_187_min.pdbqt",
+      "box_radius": "11.63105862640857",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_188_min.pdbqt",
+      "box_radius": "7.402191616135794",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_189_min.pdbqt",
+      "box_radius": "7.743606011260492",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_18_min.pdbqt",
+      "box_radius": "8.039020901549454",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_190_min.pdbqt",
+      "box_radius": "5.371701960406852",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_191_min.pdbqt",
+      "box_radius": "6.091114892141079",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_192_min.pdbqt",
+      "box_radius": "6.262746938577776",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_193_min.pdbqt",
+      "box_radius": "7.554698362981181",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_194_min.pdbqt",
+      "box_radius": "5.078927807073442",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_195_min.pdbqt",
+      "box_radius": "6.816913328180598",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_196_min.pdbqt",
+      "box_radius": "5.918596305308897",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_197_min.pdbqt",
+      "box_radius": "10.722439472172253",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_198_min.pdbqt",
+      "box_radius": "6.929961060154151",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_199_min.pdbqt",
+      "box_radius": "9.097759486099475",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_19_min.pdbqt",
+      "box_radius": "6.451488590307621",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_1_min.pdbqt",
+      "box_radius": "8.491978943397331",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_200_min.pdbqt",
+      "box_radius": "10.437809370214406",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_201_min.pdbqt",
+      "box_radius": "6.669472732793087",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_202_min.pdbqt",
+      "box_radius": "10.008478944131234",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_203_min.pdbqt",
+      "box_radius": "7.803191917805701",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_204_min.pdbqt",
+      "box_radius": "4.973782861251705",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_205_min.pdbqt",
+      "box_radius": "5.467444477025031",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_206_min.pdbqt",
+      "box_radius": "6.863524832256553",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_207_min.pdbqt",
+      "box_radius": "8.060290711597608",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_208_min.pdbqt",
+      "box_radius": "10.457733439819973",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_209_min.pdbqt",
+      "box_radius": "9.978014043702995",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_20_min.pdbqt",
+      "box_radius": "6.138638312121762",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_210_min.pdbqt",
+      "box_radius": "7.347425512236609",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_211_min.pdbqt",
+      "box_radius": "7.135532820286117",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_212_min.pdbqt",
+      "box_radius": "5.486895487358549",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_213_min.pdbqt",
+      "box_radius": "4.899767869227196",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_214_min.pdbqt",
+      "box_radius": "8.244614561454876",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_215_min.pdbqt",
+      "box_radius": "6.831032979961745",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_216_min.pdbqt",
+      "box_radius": "10.131206442688379",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_217_min.pdbqt",
+      "box_radius": "9.372031222417572",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_218_min.pdbqt",
+      "box_radius": "8.706561673838173",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_219_min.pdbqt",
+      "box_radius": "9.734744517654292",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_21_min.pdbqt",
+      "box_radius": "6.215725908362963",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_220_min.pdbqt",
+      "box_radius": "5.727243101853233",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_221_min.pdbqt",
+      "box_radius": "7.428282410839265",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_222_min.pdbqt",
+      "box_radius": "5.019411260854125",
+      "heavy_atom": "5"
+    },
+    {
+      "ligand_file": "fraglig_223_min.pdbqt",
+      "box_radius": "9.079493731316184",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_224_min.pdbqt",
+      "box_radius": "8.998071869554686",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_225_min.pdbqt",
+      "box_radius": "10.130541753558486",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_226_min.pdbqt",
+      "box_radius": "8.497678336501163",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_227_min.pdbqt",
+      "box_radius": "7.197742675756117",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_228_min.pdbqt",
+      "box_radius": "8.017335303701211",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_229_min.pdbqt",
+      "box_radius": "5.044962585488458",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_22_min.pdbqt",
+      "box_radius": "7.592216884958376",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_230_min.pdbqt",
+      "box_radius": "6.82740874331748",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_231_min.pdbqt",
+      "box_radius": "6.581002827484479",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_232_min.pdbqt",
+      "box_radius": "11.435885466811362",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_233_min.pdbqt",
+      "box_radius": "8.349248875176883",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_234_min.pdbqt",
+      "box_radius": "8.565446063529443",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_235_min.pdbqt",
+      "box_radius": "7.879976112562563",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_236_min.pdbqt",
+      "box_radius": "5.990864794518891",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_237_min.pdbqt",
+      "box_radius": "8.882919832577784",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_238_min.pdbqt",
+      "box_radius": "10.211685349105467",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_239_min.pdbqt",
+      "box_radius": "9.911192575039484",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_23_min.pdbqt",
+      "box_radius": "6.407857824982162",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_240_min.pdbqt",
+      "box_radius": "5.471213986136243",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_241_min.pdbqt",
+      "box_radius": "6.789905516671082",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_242_min.pdbqt",
+      "box_radius": "8.883907692485671",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_243_min.pdbqt",
+      "box_radius": "11.648022296291598",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_244_min.pdbqt",
+      "box_radius": "5.936622376676559",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_245_min.pdbqt",
+      "box_radius": "5.3819472990443655",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_246_min.pdbqt",
+      "box_radius": "6.028828591073743",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_247_min.pdbqt",
+      "box_radius": "6.972535616012639",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_248_min.pdbqt",
+      "box_radius": "6.8001504692748505",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_249_min.pdbqt",
+      "box_radius": "7.967714294620439",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_24_min.pdbqt",
+      "box_radius": "5.931487779523313",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_250_min.pdbqt",
+      "box_radius": "10.414914560138909",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_251_min.pdbqt",
+      "box_radius": "9.764087381716596",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_252_min.pdbqt",
+      "box_radius": "5.004990249739035",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_253_min.pdbqt",
+      "box_radius": "5.857671315975011",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_254_min.pdbqt",
+      "box_radius": "7.401211184308333",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_255_min.pdbqt",
+      "box_radius": "7.803384721898364",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_256_min.pdbqt",
+      "box_radius": "6.349591670849",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_257_min.pdbqt",
+      "box_radius": "6.161932247877462",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_258_min.pdbqt",
+      "box_radius": "6.560698590467627",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_259_min.pdbqt",
+      "box_radius": "7.156418817113245",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_25_min.pdbqt",
+      "box_radius": "5.957700892699301",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_260_min.pdbqt",
+      "box_radius": "8.23546861808",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_261_min.pdbqt",
+      "box_radius": "9.758431443257518",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_262_min.pdbqt",
+      "box_radius": "7.409795606106163",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_263_min.pdbqt",
+      "box_radius": "6.011820301416984",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_264_min.pdbqt",
+      "box_radius": "7.633738392846869",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_265_min.pdbqt",
+      "box_radius": "7.877150175836396",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_266_min.pdbqt",
+      "box_radius": "8.633702352478014",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_267_min.pdbqt",
+      "box_radius": "6.57105065032605",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_268_min.pdbqt",
+      "box_radius": "8.473179131446916",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_269_min.pdbqt",
+      "box_radius": "8.786551220318472",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_26_min.pdbqt",
+      "box_radius": "6.808049971024006",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_270_min.pdbqt",
+      "box_radius": "8.78824015591352",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_271_min.pdbqt",
+      "box_radius": "7.871848826297804",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_272_min.pdbqt",
+      "box_radius": "7.144916635870657",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_273_min.pdbqt",
+      "box_radius": "5.438629834064186",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_274_min.pdbqt",
+      "box_radius": "8.708234389112192",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_275_min.pdbqt",
+      "box_radius": "10.225315742769787",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_276_min.pdbqt",
+      "box_radius": "6.803759021549455",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_277_min.pdbqt",
+      "box_radius": "5.4694273412316345",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_278_min.pdbqt",
+      "box_radius": "6.963955965003728",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_279_min.pdbqt",
+      "box_radius": "7.997476791783636",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_27_min.pdbqt",
+      "box_radius": "6.789644646538674",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_280_min.pdbqt",
+      "box_radius": "6.834543743333264",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_281_min.pdbqt",
+      "box_radius": "9.976184929576242",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_282_min.pdbqt",
+      "box_radius": "9.487734551604893",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_283_min.pdbqt",
+      "box_radius": "6.878945770624683",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_284_min.pdbqt",
+      "box_radius": "7.956230627336976",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_285_min.pdbqt",
+      "box_radius": "7.202415071934053",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_286_min.pdbqt",
+      "box_radius": "10.325915154296705",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_287_min.pdbqt",
+      "box_radius": "7.901576799079022",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_288_min.pdbqt",
+      "box_radius": "5.696814127205129",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_289_min.pdbqt",
+      "box_radius": "7.022360624856521",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_28_min.pdbqt",
+      "box_radius": "8.59765934375434",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_290_min.pdbqt",
+      "box_radius": "6.481599861214519",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_291_min.pdbqt",
+      "box_radius": "7.9603549402044",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_292_min.pdbqt",
+      "box_radius": "8.501194219552422",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_293_min.pdbqt",
+      "box_radius": "9.278798358039756",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_294_min.pdbqt",
+      "box_radius": "9.737557025872322",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_295_min.pdbqt",
+      "box_radius": "10.290764097689424",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_296_min.pdbqt",
+      "box_radius": "5.395684139880217",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_297_min.pdbqt",
+      "box_radius": "5.454140161659739",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_298_min.pdbqt",
+      "box_radius": "7.034120957353199",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_299_min.pdbqt",
+      "box_radius": "4.429629921975303",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_29_min.pdbqt",
+      "box_radius": "10.861317023337602",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_2_min.pdbqt",
+      "box_radius": "4.0387126770217545",
+      "heavy_atom": "4"
+    },
+    {
+      "ligand_file": "fraglig_300_min.pdbqt",
+      "box_radius": "7.900933867341891",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_301_min.pdbqt",
+      "box_radius": "13.071333507984306",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_302_min.pdbqt",
+      "box_radius": "8.51770365887268",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_303_min.pdbqt",
+      "box_radius": "9.884217636648767",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_304_min.pdbqt",
+      "box_radius": "7.672385823745512",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_305_min.pdbqt",
+      "box_radius": "8.129758066343106",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_306_min.pdbqt",
+      "box_radius": "5.427021335129304",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_307_min.pdbqt",
+      "box_radius": "6.8006224607253065",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_308_min.pdbqt",
+      "box_radius": "6.637967671086521",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_309_min.pdbqt",
+      "box_radius": "5.972976736389138",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_30_min.pdbqt",
+      "box_radius": "6.0118561535867485",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_310_min.pdbqt",
+      "box_radius": "8.738026532001253",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_311_min.pdbqt",
+      "box_radius": "11.57621259765176",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_312_min.pdbqt",
+      "box_radius": "9.891465058959254",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_313_min.pdbqt",
+      "box_radius": "11.858425920418295",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_314_min.pdbqt",
+      "box_radius": "5.490582285218615",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_315_min.pdbqt",
+      "box_radius": "10.023844012290096",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_316_min.pdbqt",
+      "box_radius": "7.472963956237475",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_317_min.pdbqt",
+      "box_radius": "7.730356629800701",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_318_min.pdbqt",
+      "box_radius": "8.070292249562291",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_319_min.pdbqt",
+      "box_radius": "4.372136366562895",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_31_min.pdbqt",
+      "box_radius": "10.200490120182836",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_320_min.pdbqt",
+      "box_radius": "5.818178677884174",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_321_min.pdbqt",
+      "box_radius": "9.508601539373984",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_322_min.pdbqt",
+      "box_radius": "6.850607912979883",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_323_min.pdbqt",
+      "box_radius": "7.493945369732731",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_324_min.pdbqt",
+      "box_radius": "5.287862231514984",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_325_min.pdbqt",
+      "box_radius": "4.8975139341796705",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_326_min.pdbqt",
+      "box_radius": "12.833316296969969",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_327_min.pdbqt",
+      "box_radius": "7.766294476222312",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_328_min.pdbqt",
+      "box_radius": "7.0007618902288025",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_329_min.pdbqt",
+      "box_radius": "6.752563737669385",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_32_min.pdbqt",
+      "box_radius": "6.29309480997592",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_330_min.pdbqt",
+      "box_radius": "9.206364974359467",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_331_min.pdbqt",
+      "box_radius": "6.564476538165165",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_332_min.pdbqt",
+      "box_radius": "7.718457543410329",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_333_min.pdbqt",
+      "box_radius": "6.018409509945514",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_334_min.pdbqt",
+      "box_radius": "6.592914548273355",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_335_min.pdbqt",
+      "box_radius": "9.842176332010874",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_336_min.pdbqt",
+      "box_radius": "5.849413805908704",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_337_min.pdbqt",
+      "box_radius": "5.311199972073516",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_338_min.pdbqt",
+      "box_radius": "7.531002438645448",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_339_min.pdbqt",
+      "box_radius": "6.377329455836344",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_33_min.pdbqt",
+      "box_radius": "5.243694542790804",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_340_min.pdbqt",
+      "box_radius": "6.113061861387085",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_341_min.pdbqt",
+      "box_radius": "8.292369371077044",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_342_min.pdbqt",
+      "box_radius": "9.67963696687338",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_343_min.pdbqt",
+      "box_radius": "8.97936660780639",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_344_min.pdbqt",
+      "box_radius": "9.107880899483572",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_345_min.pdbqt",
+      "box_radius": "5.137962822499819",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_346_min.pdbqt",
+      "box_radius": "8.604480640934398",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_347_min.pdbqt",
+      "box_radius": "7.522414430847745",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_348_min.pdbqt",
+      "box_radius": "7.649800539392367",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_349_min.pdbqt",
+      "box_radius": "8.910516764616569",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_34_min.pdbqt",
+      "box_radius": "6.873623168383369",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_350_min.pdbqt",
+      "box_radius": "9.559260289187336",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_351_min.pdbqt",
+      "box_radius": "8.279315134376311",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_352_min.pdbqt",
+      "box_radius": "7.9149549821352645",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_353_min.pdbqt",
+      "box_radius": "9.57749360449431",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_354_min.pdbqt",
+      "box_radius": "8.180575289638131",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_355_min.pdbqt",
+      "box_radius": "8.566384261641065",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_356_min.pdbqt",
+      "box_radius": "8.978692631228757",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_357_min.pdbqt",
+      "box_radius": "7.644200830676216",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_358_min.pdbqt",
+      "box_radius": "8.543006142253825",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_359_min.pdbqt",
+      "box_radius": "7.160525242559895",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_35_min.pdbqt",
+      "box_radius": "7.198746130163406",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_360_min.pdbqt",
+      "box_radius": "7.039626082071442",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_361_min.pdbqt",
+      "box_radius": "8.541609625344156",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_362_min.pdbqt",
+      "box_radius": "11.178380906913596",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_363_min.pdbqt",
+      "box_radius": "9.918957152691604",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_364_min.pdbqt",
+      "box_radius": "7.008631077340336",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_365_min.pdbqt",
+      "box_radius": "7.3546674895217246",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_366_min.pdbqt",
+      "box_radius": "7.490557489129238",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_367_min.pdbqt",
+      "box_radius": "7.779737776874325",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_368_min.pdbqt",
+      "box_radius": "5.641556394940541",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_369_min.pdbqt",
+      "box_radius": "4.324893695494275",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_36_min.pdbqt",
+      "box_radius": "6.0643810766440485",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_370_min.pdbqt",
+      "box_radius": "6.389369885169328",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_371_min.pdbqt",
+      "box_radius": "9.315544757615404",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_372_min.pdbqt",
+      "box_radius": "5.607727882802311",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_373_min.pdbqt",
+      "box_radius": "8.13458021985064",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_374_min.pdbqt",
+      "box_radius": "6.142587082400981",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_375_min.pdbqt",
+      "box_radius": "8.522953553995638",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_376_min.pdbqt",
+      "box_radius": "8.08370588474265",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_377_min.pdbqt",
+      "box_radius": "6.855686466718326",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_378_min.pdbqt",
+      "box_radius": "6.2310873327533765",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_379_min.pdbqt",
+      "box_radius": "5.651174599280048",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_37_min.pdbqt",
+      "box_radius": "8.093761800548137",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_380_min.pdbqt",
+      "box_radius": "8.384689144598859",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_381_min.pdbqt",
+      "box_radius": "6.902157535130401",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_382_min.pdbqt",
+      "box_radius": "6.521870421800182",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_383_min.pdbqt",
+      "box_radius": "9.802850678847692",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_384_min.pdbqt",
+      "box_radius": "7.059804161181551",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_385_min.pdbqt",
+      "box_radius": "7.903208499808953",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_386_min.pdbqt",
+      "box_radius": "8.182168870362473",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_387_min.pdbqt",
+      "box_radius": "10.165079338193753",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_388_min.pdbqt",
+      "box_radius": "6.750128771041107",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_389_min.pdbqt",
+      "box_radius": "7.191029662746332",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_38_min.pdbqt",
+      "box_radius": "8.922284452497584",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_390_min.pdbqt",
+      "box_radius": "6.615395514761374",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_391_min.pdbqt",
+      "box_radius": "8.945041514444783",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_392_min.pdbqt",
+      "box_radius": "6.629741515094566",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_393_min.pdbqt",
+      "box_radius": "5.95417470805294",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_394_min.pdbqt",
+      "box_radius": "8.323297623006498",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_395_min.pdbqt",
+      "box_radius": "8.126452873166425",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_396_min.pdbqt",
+      "box_radius": "6.984700953749877",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_397_min.pdbqt",
+      "box_radius": "5.644243040183268",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_398_min.pdbqt",
+      "box_radius": "7.291775854725684",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_399_min.pdbqt",
+      "box_radius": "6.1430664275903695",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_39_min.pdbqt",
+      "box_radius": "5.601315443354116",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_3_min.pdbqt",
+      "box_radius": "4.227582213938147",
+      "heavy_atom": "6"
+    },
+    {
+      "ligand_file": "fraglig_400_min.pdbqt",
+      "box_radius": "7.067095331428493",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_401_min.pdbqt",
+      "box_radius": "9.833069186454138",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_402_min.pdbqt",
+      "box_radius": "6.304242687174682",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_403_min.pdbqt",
+      "box_radius": "7.8917068884579376",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_404_min.pdbqt",
+      "box_radius": "8.843646245393867",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_405_min.pdbqt",
+      "box_radius": "11.181559782695643",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_406_min.pdbqt",
+      "box_radius": "8.143982665726755",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_407_min.pdbqt",
+      "box_radius": "8.944267704046485",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_408_min.pdbqt",
+      "box_radius": "7.123478119518508",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_409_min.pdbqt",
+      "box_radius": "7.657423422811081",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_40_min.pdbqt",
+      "box_radius": "8.466810289243922",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_410_min.pdbqt",
+      "box_radius": "8.90460800005573",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_411_min.pdbqt",
+      "box_radius": "10.366487569702935",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_412_min.pdbqt",
+      "box_radius": "11.086559666136568",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_413_min.pdbqt",
+      "box_radius": "10.993624871485451",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_414_min.pdbqt",
+      "box_radius": "7.006973018583824",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_415_min.pdbqt",
+      "box_radius": "10.88366252166373",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_416_min.pdbqt",
+      "box_radius": "5.174464117701804",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_417_min.pdbqt",
+      "box_radius": "5.991483679599961",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_418_min.pdbqt",
+      "box_radius": "9.344456699050866",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_419_min.pdbqt",
+      "box_radius": "14.166153423338695",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_41_min.pdbqt",
+      "box_radius": "6.461276056245233",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_420_min.pdbqt",
+      "box_radius": "7.4722070515329095",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_421_min.pdbqt",
+      "box_radius": "6.96541668540568",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_422_min.pdbqt",
+      "box_radius": "7.435006945877131",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_423_min.pdbqt",
+      "box_radius": "10.621222132645888",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_424_min.pdbqt",
+      "box_radius": "12.770974704006594",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_425_min.pdbqt",
+      "box_radius": "11.033825361184299",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_426_min.pdbqt",
+      "box_radius": "5.999597393885509",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_427_min.pdbqt",
+      "box_radius": "5.772096188477521",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_428_min.pdbqt",
+      "box_radius": "6.585902920702733",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_429_min.pdbqt",
+      "box_radius": "9.071259692165436",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_42_min.pdbqt",
+      "box_radius": "4.780301887955555",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_430_min.pdbqt",
+      "box_radius": "5.662908927642976",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_431_min.pdbqt",
+      "box_radius": "4.785372227455961",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_432_min.pdbqt",
+      "box_radius": "7.429434835161917",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_433_min.pdbqt",
+      "box_radius": "8.131111837997421",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_434_min.pdbqt",
+      "box_radius": "6.132649563594848",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_435_min.pdbqt",
+      "box_radius": "9.210022940724214",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_436_min.pdbqt",
+      "box_radius": "10.496073648879205",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_437_min.pdbqt",
+      "box_radius": "5.251543392677664",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_438_min.pdbqt",
+      "box_radius": "10.384094911652168",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_439_min.pdbqt",
+      "box_radius": "5.6459172027039575",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_43_min.pdbqt",
+      "box_radius": "7.431973510852501",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_440_min.pdbqt",
+      "box_radius": "6.892003758250905",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_441_min.pdbqt",
+      "box_radius": "7.701771031572187",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_442_min.pdbqt",
+      "box_radius": "11.073583025879149",
+      "heavy_atom": "30"
+    },
+    {
+      "ligand_file": "fraglig_443_min.pdbqt",
+      "box_radius": "5.922862275056579",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_444_min.pdbqt",
+      "box_radius": "7.766381960109556",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_445_min.pdbqt",
+      "box_radius": "5.149191023651888",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_446_min.pdbqt",
+      "box_radius": "9.796897844698977",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_447_min.pdbqt",
+      "box_radius": "9.903813589595124",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_448_min.pdbqt",
+      "box_radius": "8.117980307380614",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_449_min.pdbqt",
+      "box_radius": "7.090778695225362",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_44_min.pdbqt",
+      "box_radius": "8.674011116705184",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_450_min.pdbqt",
+      "box_radius": "6.215764965898213",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_451_min.pdbqt",
+      "box_radius": "6.119816051875571",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_452_min.pdbqt",
+      "box_radius": "10.473599044216348",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_453_min.pdbqt",
+      "box_radius": "6.682761664400684",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_454_min.pdbqt",
+      "box_radius": "7.313712704375128",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_455_min.pdbqt",
+      "box_radius": "8.025864555697451",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_456_min.pdbqt",
+      "box_radius": "5.90023374102667",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_457_min.pdbqt",
+      "box_radius": "5.826686942276277",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_458_min.pdbqt",
+      "box_radius": "7.981153445253618",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_459_min.pdbqt",
+      "box_radius": "10.696258477375185",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_45_min.pdbqt",
+      "box_radius": "6.76992440766239",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_460_min.pdbqt",
+      "box_radius": "9.904205760128354",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_461_min.pdbqt",
+      "box_radius": "7.633327469744934",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_462_min.pdbqt",
+      "box_radius": "6.218659093823861",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_463_min.pdbqt",
+      "box_radius": "7.387567037626918",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_464_min.pdbqt",
+      "box_radius": "6.129067391361515",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_465_min.pdbqt",
+      "box_radius": "7.300538007362018",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_466_min.pdbqt",
+      "box_radius": "7.866896095330887",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_467_min.pdbqt",
+      "box_radius": "8.40393731922053",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_468_min.pdbqt",
+      "box_radius": "8.277828087856891",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_469_min.pdbqt",
+      "box_radius": "7.943109692494886",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_46_min.pdbqt",
+      "box_radius": "5.910071374547801",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_470_min.pdbqt",
+      "box_radius": "7.085958741201135",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_471_min.pdbqt",
+      "box_radius": "12.208211883259711",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_472_min.pdbqt",
+      "box_radius": "9.067508591034057",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_473_min.pdbqt",
+      "box_radius": "5.112966873779468",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_474_min.pdbqt",
+      "box_radius": "7.122474917254711",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_475_min.pdbqt",
+      "box_radius": "6.7149560461083535",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_476_min.pdbqt",
+      "box_radius": "9.06311195009794",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_477_min.pdbqt",
+      "box_radius": "9.573354462486893",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_478_min.pdbqt",
+      "box_radius": "7.997149609287907",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_479_min.pdbqt",
+      "box_radius": "8.54117593024643",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_47_min.pdbqt",
+      "box_radius": "8.572309777988004",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_480_min.pdbqt",
+      "box_radius": "7.7005010987945015",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_481_min.pdbqt",
+      "box_radius": "7.920500363411148",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_482_min.pdbqt",
+      "box_radius": "10.154828401104968",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_483_min.pdbqt",
+      "box_radius": "7.16968513839674",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_484_min.pdbqt",
+      "box_radius": "6.291566312251038",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_485_min.pdbqt",
+      "box_radius": "8.096403053810391",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_486_min.pdbqt",
+      "box_radius": "7.14627945877528",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_487_min.pdbqt",
+      "box_radius": "10.290752171337177",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_488_min.pdbqt",
+      "box_radius": "6.597234732929227",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_489_min.pdbqt",
+      "box_radius": "8.123960285109392",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_48_min.pdbqt",
+      "box_radius": "6.390916486961379",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_490_min.pdbqt",
+      "box_radius": "7.304552447031207",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_491_min.pdbqt",
+      "box_radius": "9.791586704692094",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_492_min.pdbqt",
+      "box_radius": "9.503994338843436",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_493_min.pdbqt",
+      "box_radius": "9.857620756278294",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_494_min.pdbqt",
+      "box_radius": "11.102566762093902",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_495_min.pdbqt",
+      "box_radius": "6.323347198459162",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_496_min.pdbqt",
+      "box_radius": "9.477808595545833",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_497_min.pdbqt",
+      "box_radius": "7.452259193853152",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_498_min.pdbqt",
+      "box_radius": "8.670726294150374",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_499_min.pdbqt",
+      "box_radius": "9.78118015198702",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_49_min.pdbqt",
+      "box_radius": "8.36848549625816",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_4_min.pdbqt",
+      "box_radius": "5.193835988232401",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_500_min.pdbqt",
+      "box_radius": "5.782809772243529",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_501_min.pdbqt",
+      "box_radius": "9.776594075965095",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_502_min.pdbqt",
+      "box_radius": "6.267327102356445",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_503_min.pdbqt",
+      "box_radius": "8.064244856338883",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_504_min.pdbqt",
+      "box_radius": "6.35953358086041",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_505_min.pdbqt",
+      "box_radius": "6.43831590106715",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_506_min.pdbqt",
+      "box_radius": "5.777445090509041",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_507_min.pdbqt",
+      "box_radius": "6.245759761637717",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_508_min.pdbqt",
+      "box_radius": "7.842777735552648",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_509_min.pdbqt",
+      "box_radius": "8.489540976789876",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_50_min.pdbqt",
+      "box_radius": "5.470600371701082",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_510_min.pdbqt",
+      "box_radius": "9.491514487172315",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_511_min.pdbqt",
+      "box_radius": "8.663211620674323",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_512_min.pdbqt",
+      "box_radius": "11.722000575011727",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_513_min.pdbqt",
+      "box_radius": "11.08267993384864",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_514_min.pdbqt",
+      "box_radius": "9.290753029760056",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_515_min.pdbqt",
+      "box_radius": "7.72787787081189",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_516_min.pdbqt",
+      "box_radius": "7.831286522487622",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_517_min.pdbqt",
+      "box_radius": "8.291684318778593",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_518_min.pdbqt",
+      "box_radius": "7.346897188123662",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_519_min.pdbqt",
+      "box_radius": "6.200924979707615",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_51_min.pdbqt",
+      "box_radius": "6.437276342238245",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_520_min.pdbqt",
+      "box_radius": "6.87343648064265",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_521_min.pdbqt",
+      "box_radius": "9.509815282274094",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_522_min.pdbqt",
+      "box_radius": "7.931910168810963",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_523_min.pdbqt",
+      "box_radius": "5.797151474682356",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_524_min.pdbqt",
+      "box_radius": "8.049805388179712",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_525_min.pdbqt",
+      "box_radius": "9.641128660573772",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_526_min.pdbqt",
+      "box_radius": "17.039325436136078",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_527_min.pdbqt",
+      "box_radius": "5.671793443323936",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_528_min.pdbqt",
+      "box_radius": "4.978514027257733",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_529_min.pdbqt",
+      "box_radius": "10.236329496625107",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_52_min.pdbqt",
+      "box_radius": "8.077323320364897",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_530_min.pdbqt",
+      "box_radius": "7.517609870170888",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_531_min.pdbqt",
+      "box_radius": "9.060318978453951",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_532_min.pdbqt",
+      "box_radius": "10.454418926800948",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_533_min.pdbqt",
+      "box_radius": "6.599805199920686",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_534_min.pdbqt",
+      "box_radius": "4.631360053194103",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_535_min.pdbqt",
+      "box_radius": "5.506685573289846",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_536_min.pdbqt",
+      "box_radius": "5.082301031501316",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_537_min.pdbqt",
+      "box_radius": "8.39340536219792",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_538_min.pdbqt",
+      "box_radius": "6.877264634654502",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_539_min.pdbqt",
+      "box_radius": "6.850640969293791",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_53_min.pdbqt",
+      "box_radius": "9.37411581145688",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_540_min.pdbqt",
+      "box_radius": "6.748240792527743",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_541_min.pdbqt",
+      "box_radius": "10.72195143614574",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_542_min.pdbqt",
+      "box_radius": "6.3009921582499295",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_543_min.pdbqt",
+      "box_radius": "5.68333800203733",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_544_min.pdbqt",
+      "box_radius": "10.837776162230856",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_545_min.pdbqt",
+      "box_radius": "8.409469510863591",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_546_min.pdbqt",
+      "box_radius": "8.608727475082842",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_547_min.pdbqt",
+      "box_radius": "8.336392453938124",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_548_min.pdbqt",
+      "box_radius": "7.811689719070552",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_549_min.pdbqt",
+      "box_radius": "6.500349981552854",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_54_min.pdbqt",
+      "box_radius": "7.0873870811938335",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_550_min.pdbqt",
+      "box_radius": "7.256490609639708",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_551_min.pdbqt",
+      "box_radius": "5.283927807073802",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_552_min.pdbqt",
+      "box_radius": "7.359920455126544",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_553_min.pdbqt",
+      "box_radius": "11.763676274409594",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_554_min.pdbqt",
+      "box_radius": "4.754276103016404",
+      "heavy_atom": "6"
+    },
+    {
+      "ligand_file": "fraglig_555_min.pdbqt",
+      "box_radius": "6.0704905375777205",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_556_min.pdbqt",
+      "box_radius": "7.3819624540297735",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_557_min.pdbqt",
+      "box_radius": "9.024506787611317",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_558_min.pdbqt",
+      "box_radius": "8.042727621436914",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_559_min.pdbqt",
+      "box_radius": "6.69915680404163",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_55_min.pdbqt",
+      "box_radius": "10.744499246978917",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_560_min.pdbqt",
+      "box_radius": "6.453999833834841",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_561_min.pdbqt",
+      "box_radius": "5.501598142656761",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_562_min.pdbqt",
+      "box_radius": "7.261361100158172",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_563_min.pdbqt",
+      "box_radius": "9.315611103435616",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_564_min.pdbqt",
+      "box_radius": "6.841106045184802",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_565_min.pdbqt",
+      "box_radius": "8.143666722928833",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_566_min.pdbqt",
+      "box_radius": "10.711093584684507",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_567_min.pdbqt",
+      "box_radius": "9.376154191813425",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_568_min.pdbqt",
+      "box_radius": "8.75763769439244",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_569_min.pdbqt",
+      "box_radius": "14.128387316953514",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_56_min.pdbqt",
+      "box_radius": "6.0133095338677265",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_570_min.pdbqt",
+      "box_radius": "6.217396782547074",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_571_min.pdbqt",
+      "box_radius": "7.802997659374509",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_572_min.pdbqt",
+      "box_radius": "9.798999646664289",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_573_min.pdbqt",
+      "box_radius": "5.549535473435404",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_574_min.pdbqt",
+      "box_radius": "7.843579842936715",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_575_min.pdbqt",
+      "box_radius": "11.105165760219208",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_576_min.pdbqt",
+      "box_radius": "10.947932835065858",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_577_min.pdbqt",
+      "box_radius": "9.795626298816341",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_578_min.pdbqt",
+      "box_radius": "9.13530043133871",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_579_min.pdbqt",
+      "box_radius": "11.644913918168289",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_57_min.pdbqt",
+      "box_radius": "5.931952796696848",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_580_min.pdbqt",
+      "box_radius": "8.150663451643346",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_581_min.pdbqt",
+      "box_radius": "6.816505938471864",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_582_min.pdbqt",
+      "box_radius": "9.0601634544727",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_583_min.pdbqt",
+      "box_radius": "10.475914397498824",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_584_min.pdbqt",
+      "box_radius": "8.47225748044391",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_585_min.pdbqt",
+      "box_radius": "10.82022950689803",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_586_min.pdbqt",
+      "box_radius": "6.772302424663631",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_587_min.pdbqt",
+      "box_radius": "7.63750289214134",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_588_min.pdbqt",
+      "box_radius": "6.0385638931836425",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_589_min.pdbqt",
+      "box_radius": "8.982579274304534",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_58_min.pdbqt",
+      "box_radius": "6.980408599231483",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_590_min.pdbqt",
+      "box_radius": "9.170028202949647",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_591_min.pdbqt",
+      "box_radius": "9.02837346439769",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_592_min.pdbqt",
+      "box_radius": "8.840856747084933",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_593_min.pdbqt",
+      "box_radius": "7.525266196498765",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_594_min.pdbqt",
+      "box_radius": "7.295519425068348",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_595_min.pdbqt",
+      "box_radius": "10.68509468802338",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_596_min.pdbqt",
+      "box_radius": "11.2350190186631",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_597_min.pdbqt",
+      "box_radius": "8.821718526935804",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_598_min.pdbqt",
+      "box_radius": "7.137370667838465",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_599_min.pdbqt",
+      "box_radius": "8.954459737617716",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_59_min.pdbqt",
+      "box_radius": "4.4502700964494695",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_5_min.pdbqt",
+      "box_radius": "5.1015751086868235",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_600_min.pdbqt",
+      "box_radius": "8.973818603037376",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_601_min.pdbqt",
+      "box_radius": "8.46180990023462",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_602_min.pdbqt",
+      "box_radius": "6.361758078941157",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_603_min.pdbqt",
+      "box_radius": "9.318526232770422",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_604_min.pdbqt",
+      "box_radius": "6.943606506400311",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_605_min.pdbqt",
+      "box_radius": "9.317711532046433",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_606_min.pdbqt",
+      "box_radius": "7.76442206638176",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_607_min.pdbqt",
+      "box_radius": "10.563401479732898",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_608_min.pdbqt",
+      "box_radius": "8.387954603190234",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_609_min.pdbqt",
+      "box_radius": "9.198500176957399",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_60_min.pdbqt",
+      "box_radius": "7.151498388433448",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_610_min.pdbqt",
+      "box_radius": "6.757020888322618",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_611_min.pdbqt",
+      "box_radius": "9.051590173122248",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_612_min.pdbqt",
+      "box_radius": "8.297816667687687",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_613_min.pdbqt",
+      "box_radius": "11.736213268845283",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_614_min.pdbqt",
+      "box_radius": "7.536242150423821",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_615_min.pdbqt",
+      "box_radius": "6.876340525041416",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_616_min.pdbqt",
+      "box_radius": "5.8078150733508895",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_617_min.pdbqt",
+      "box_radius": "9.774070540648198",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_618_min.pdbqt",
+      "box_radius": "7.527319470605941",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_619_min.pdbqt",
+      "box_radius": "10.859711193513695",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_61_min.pdbqt",
+      "box_radius": "6.575802746404119",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_620_min.pdbqt",
+      "box_radius": "8.508750724117357",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_621_min.pdbqt",
+      "box_radius": "11.182042002404737",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_622_min.pdbqt",
+      "box_radius": "6.588632489462449",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_623_min.pdbqt",
+      "box_radius": "9.025778697361297",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_624_min.pdbqt",
+      "box_radius": "7.884001063607416",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_625_min.pdbqt",
+      "box_radius": "7.4425390692634386",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_626_min.pdbqt",
+      "box_radius": "9.175378950158079",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_627_min.pdbqt",
+      "box_radius": "5.1644071217347705",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_628_min.pdbqt",
+      "box_radius": "9.026093622484634",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_629_min.pdbqt",
+      "box_radius": "6.61862509168608",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_62_min.pdbqt",
+      "box_radius": "9.734532530309966",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_630_min.pdbqt",
+      "box_radius": "5.2234984407890614",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_631_min.pdbqt",
+      "box_radius": "9.39978415501465",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_632_min.pdbqt",
+      "box_radius": "6.564584907884921",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_633_min.pdbqt",
+      "box_radius": "9.88460819490867",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_634_min.pdbqt",
+      "box_radius": "9.787492830949382",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_635_min.pdbqt",
+      "box_radius": "9.947050455334391",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_636_min.pdbqt",
+      "box_radius": "8.462823341239968",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_637_min.pdbqt",
+      "box_radius": "9.105496449842345",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_638_min.pdbqt",
+      "box_radius": "5.858275687150333",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_639_min.pdbqt",
+      "box_radius": "7.412435828337922",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_63_min.pdbqt",
+      "box_radius": "6.133236500213146",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_640_min.pdbqt",
+      "box_radius": "6.911897129545873",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_641_min.pdbqt",
+      "box_radius": "15.519905470349395",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_642_min.pdbqt",
+      "box_radius": "9.875498391923374",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_643_min.pdbqt",
+      "box_radius": "7.12485325796492",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_644_min.pdbqt",
+      "box_radius": "10.308554128929858",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_645_min.pdbqt",
+      "box_radius": "11.12670480678241",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_646_min.pdbqt",
+      "box_radius": "6.000955789615777",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_647_min.pdbqt",
+      "box_radius": "7.252933251307762",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_648_min.pdbqt",
+      "box_radius": "6.429222913808478",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_649_min.pdbqt",
+      "box_radius": "6.769691783710652",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_64_min.pdbqt",
+      "box_radius": "5.852223699590726",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_650_min.pdbqt",
+      "box_radius": "7.474666276320728",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_651_min.pdbqt",
+      "box_radius": "6.556673357833854",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_652_min.pdbqt",
+      "box_radius": "5.806715075744007",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_653_min.pdbqt",
+      "box_radius": "6.126283554575799",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_654_min.pdbqt",
+      "box_radius": "8.816721648012646",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_655_min.pdbqt",
+      "box_radius": "9.682351541802412",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_656_min.pdbqt",
+      "box_radius": "8.547233024883393",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_657_min.pdbqt",
+      "box_radius": "9.38246680556604",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_658_min.pdbqt",
+      "box_radius": "8.181683527839873",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_659_min.pdbqt",
+      "box_radius": "8.59853978355184",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_65_min.pdbqt",
+      "box_radius": "6.251152540832856",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_660_min.pdbqt",
+      "box_radius": "9.579034614970942",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_661_min.pdbqt",
+      "box_radius": "8.703272088156236",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_662_min.pdbqt",
+      "box_radius": "9.740392771135145",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_663_min.pdbqt",
+      "box_radius": "13.698483953790378",
+      "heavy_atom": "26"
+    },
+    {
+      "ligand_file": "fraglig_664_min.pdbqt",
+      "box_radius": "6.919976152951675",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_665_min.pdbqt",
+      "box_radius": "5.283748269649132",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_666_min.pdbqt",
+      "box_radius": "6.384283775755366",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_667_min.pdbqt",
+      "box_radius": "6.892328164845081",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_668_min.pdbqt",
+      "box_radius": "11.19499940249625",
+      "heavy_atom": "34"
+    },
+    {
+      "ligand_file": "fraglig_669_min.pdbqt",
+      "box_radius": "9.552902229133387",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_66_min.pdbqt",
+      "box_radius": "7.279358197331197",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_670_min.pdbqt",
+      "box_radius": "11.651649580216853",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_671_min.pdbqt",
+      "box_radius": "6.380049800793526",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_672_min.pdbqt",
+      "box_radius": "8.081101764724275",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_673_min.pdbqt",
+      "box_radius": "8.256620900136149",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_674_min.pdbqt",
+      "box_radius": "6.625599765384976",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_675_min.pdbqt",
+      "box_radius": "11.099842967076945",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_676_min.pdbqt",
+      "box_radius": "7.494540328958098",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_677_min.pdbqt",
+      "box_radius": "6.298959281883335",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_678_min.pdbqt",
+      "box_radius": "11.7026900369778",
+      "heavy_atom": "30"
+    },
+    {
+      "ligand_file": "fraglig_679_min.pdbqt",
+      "box_radius": "9.727377060499583",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_67_min.pdbqt",
+      "box_radius": "8.405963831343541",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_680_min.pdbqt",
+      "box_radius": "8.900282199102053",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_681_min.pdbqt",
+      "box_radius": "7.065666651420433",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_682_min.pdbqt",
+      "box_radius": "7.345351038413152",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_683_min.pdbqt",
+      "box_radius": "7.615505227390826",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_684_min.pdbqt",
+      "box_radius": "6.227246646356474",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_685_min.pdbqt",
+      "box_radius": "9.430114145130739",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_686_min.pdbqt",
+      "box_radius": "8.106075097952194",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_687_min.pdbqt",
+      "box_radius": "11.207156322192708",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_688_min.pdbqt",
+      "box_radius": "6.688121463320585",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_689_min.pdbqt",
+      "box_radius": "8.111699462583177",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_68_min.pdbqt",
+      "box_radius": "4.942352006426897",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_690_min.pdbqt",
+      "box_radius": "7.2946749748551785",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_691_min.pdbqt",
+      "box_radius": "6.740253247376818",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_692_min.pdbqt",
+      "box_radius": "4.405104118451381",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_693_min.pdbqt",
+      "box_radius": "8.102778049469233",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_694_min.pdbqt",
+      "box_radius": "10.680036232780632",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_695_min.pdbqt",
+      "box_radius": "8.30583240446654",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_696_min.pdbqt",
+      "box_radius": "10.934875899868002",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_697_min.pdbqt",
+      "box_radius": "5.320584112421144",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_698_min.pdbqt",
+      "box_radius": "6.830426333342153",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_699_min.pdbqt",
+      "box_radius": "9.072979791646246",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_69_min.pdbqt",
+      "box_radius": "7.278320353817356",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_6_min.pdbqt",
+      "box_radius": "6.4905438625866205",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_700_min.pdbqt",
+      "box_radius": "14.180104086879298",
+      "heavy_atom": "37"
+    },
+    {
+      "ligand_file": "fraglig_701_min.pdbqt",
+      "box_radius": "8.188132655891247",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_702_min.pdbqt",
+      "box_radius": "10.297162969861262",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_703_min.pdbqt",
+      "box_radius": "11.442528605504924",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_704_min.pdbqt",
+      "box_radius": "8.74243999077679",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_705_min.pdbqt",
+      "box_radius": "7.947622648734997",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_706_min.pdbqt",
+      "box_radius": "5.577054106598407",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_707_min.pdbqt",
+      "box_radius": "8.383905201736049",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_708_min.pdbqt",
+      "box_radius": "6.23101383037557",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_709_min.pdbqt",
+      "box_radius": "12.667944717964128",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_70_min.pdbqt",
+      "box_radius": "6.517320880359782",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_710_min.pdbqt",
+      "box_radius": "8.061887097981788",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_711_min.pdbqt",
+      "box_radius": "8.804205447722833",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_712_min.pdbqt",
+      "box_radius": "12.115919311049355",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_713_min.pdbqt",
+      "box_radius": "6.867117394842995",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_714_min.pdbqt",
+      "box_radius": "9.878141411629356",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_715_min.pdbqt",
+      "box_radius": "9.411567548900587",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_716_min.pdbqt",
+      "box_radius": "8.496012877243706",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_717_min.pdbqt",
+      "box_radius": "8.042596867636597",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_718_min.pdbqt",
+      "box_radius": "7.777326361521681",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_719_min.pdbqt",
+      "box_radius": "7.47346713231471",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_71_min.pdbqt",
+      "box_radius": "7.9695432247515114",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_720_min.pdbqt",
+      "box_radius": "7.675734714400938",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_721_min.pdbqt",
+      "box_radius": "5.823786428368567",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_722_min.pdbqt",
+      "box_radius": "10.802649669733585",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_723_min.pdbqt",
+      "box_radius": "5.387443237096178",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_724_min.pdbqt",
+      "box_radius": "7.769221171924418",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_725_min.pdbqt",
+      "box_radius": "7.513434038997443",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_726_min.pdbqt",
+      "box_radius": "6.4743682146262",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_727_min.pdbqt",
+      "box_radius": "8.884958793295816",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_728_min.pdbqt",
+      "box_radius": "12.39033085347292",
+      "heavy_atom": "36"
+    },
+    {
+      "ligand_file": "fraglig_729_min.pdbqt",
+      "box_radius": "11.468925257044766",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_72_min.pdbqt",
+      "box_radius": "6.100103015685826",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_730_min.pdbqt",
+      "box_radius": "8.89126084781816",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_731_min.pdbqt",
+      "box_radius": "9.67354757448958",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_732_min.pdbqt",
+      "box_radius": "9.69333543077218",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_733_min.pdbqt",
+      "box_radius": "10.808226348766526",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_734_min.pdbqt",
+      "box_radius": "7.127154799766384",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_735_min.pdbqt",
+      "box_radius": "9.001982168904837",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_736_min.pdbqt",
+      "box_radius": "9.8568441256749",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_737_min.pdbqt",
+      "box_radius": "6.4914727369871175",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_738_min.pdbqt",
+      "box_radius": "10.391174899509505",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_739_min.pdbqt",
+      "box_radius": "8.826976450065887",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_73_min.pdbqt",
+      "box_radius": "6.323962547453556",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_740_min.pdbqt",
+      "box_radius": "7.353272811198104",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_741_min.pdbqt",
+      "box_radius": "10.655189352765221",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_742_min.pdbqt",
+      "box_radius": "8.320003864934082",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_743_min.pdbqt",
+      "box_radius": "10.507742296564732",
+      "heavy_atom": "30"
+    },
+    {
+      "ligand_file": "fraglig_744_min.pdbqt",
+      "box_radius": "6.458475383869441",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_745_min.pdbqt",
+      "box_radius": "11.604165282799597",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_746_min.pdbqt",
+      "box_radius": "10.882195392555165",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_747_min.pdbqt",
+      "box_radius": "9.10067946541369",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_748_min.pdbqt",
+      "box_radius": "7.894221597953161",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_749_min.pdbqt",
+      "box_radius": "9.405085763530396",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_74_min.pdbqt",
+      "box_radius": "6.911865815088271",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_750_min.pdbqt",
+      "box_radius": "8.458465684923043",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_751_min.pdbqt",
+      "box_radius": "6.0006592893696515",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_752_min.pdbqt",
+      "box_radius": "9.093099747634307",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_753_min.pdbqt",
+      "box_radius": "7.007142799725731",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_754_min.pdbqt",
+      "box_radius": "7.598628162927522",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_755_min.pdbqt",
+      "box_radius": "9.665014996702936",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_756_min.pdbqt",
+      "box_radius": "5.125116647364787",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_757_min.pdbqt",
+      "box_radius": "10.02704888324165",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_758_min.pdbqt",
+      "box_radius": "9.47745959528827",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_759_min.pdbqt",
+      "box_radius": "9.66459621393449",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_75_min.pdbqt",
+      "box_radius": "7.172193680453674",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_760_min.pdbqt",
+      "box_radius": "12.082486414851884",
+      "heavy_atom": "35"
+    },
+    {
+      "ligand_file": "fraglig_761_min.pdbqt",
+      "box_radius": "10.693078389631252",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_762_min.pdbqt",
+      "box_radius": "11.91351080315028",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_763_min.pdbqt",
+      "box_radius": "6.956175889825068",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_764_min.pdbqt",
+      "box_radius": "10.030331391693787",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_765_min.pdbqt",
+      "box_radius": "8.68312871408125",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_766_min.pdbqt",
+      "box_radius": "8.233367095494579",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_767_min.pdbqt",
+      "box_radius": "8.658716815217815",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_768_min.pdbqt",
+      "box_radius": "8.361255611787252",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_769_min.pdbqt",
+      "box_radius": "8.965144581397245",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_76_min.pdbqt",
+      "box_radius": "8.390390193924672",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_770_min.pdbqt",
+      "box_radius": "8.376362857227704",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_771_min.pdbqt",
+      "box_radius": "5.9505320119502985",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_772_min.pdbqt",
+      "box_radius": "8.012664109028629",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_773_min.pdbqt",
+      "box_radius": "9.121551585820267",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_774_min.pdbqt",
+      "box_radius": "8.145995674210104",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_775_min.pdbqt",
+      "box_radius": "5.584529944836176",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_776_min.pdbqt",
+      "box_radius": "5.394121390009252",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_777_min.pdbqt",
+      "box_radius": "5.698240829645823",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_778_min.pdbqt",
+      "box_radius": "6.916433287637825",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_779_min.pdbqt",
+      "box_radius": "8.216216574520308",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_77_min.pdbqt",
+      "box_radius": "6.299909511508667",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_780_min.pdbqt",
+      "box_radius": "7.41818401723927",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_781_min.pdbqt",
+      "box_radius": "12.62892193793384",
+      "heavy_atom": "41"
+    },
+    {
+      "ligand_file": "fraglig_782_min.pdbqt",
+      "box_radius": "5.240766486328195",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_783_min.pdbqt",
+      "box_radius": "8.972214972976682",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_784_min.pdbqt",
+      "box_radius": "4.365498590631945",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_785_min.pdbqt",
+      "box_radius": "9.382130922982011",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_786_min.pdbqt",
+      "box_radius": "8.10896641726205",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_787_min.pdbqt",
+      "box_radius": "5.840353184824322",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_788_min.pdbqt",
+      "box_radius": "5.921987703893547",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_789_min.pdbqt",
+      "box_radius": "8.95674577159861",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_78_min.pdbqt",
+      "box_radius": "7.939446524613406",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_790_min.pdbqt",
+      "box_radius": "4.0417220117485515",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_791_min.pdbqt",
+      "box_radius": "6.798293997053942",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_792_min.pdbqt",
+      "box_radius": "11.598800000549204",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_793_min.pdbqt",
+      "box_radius": "5.793715717931192",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_794_min.pdbqt",
+      "box_radius": "7.768131601222257",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_795_min.pdbqt",
+      "box_radius": "9.333612873616605",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_796_min.pdbqt",
+      "box_radius": "7.543163542204702",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_797_min.pdbqt",
+      "box_radius": "7.323426531615127",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_798_min.pdbqt",
+      "box_radius": "6.209215134620448",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_799_min.pdbqt",
+      "box_radius": "7.78504345440974",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_79_min.pdbqt",
+      "box_radius": "6.032983676484533",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_7_min.pdbqt",
+      "box_radius": "7.7477397245785085",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_800_min.pdbqt",
+      "box_radius": "11.567270927643573",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_801_min.pdbqt",
+      "box_radius": "9.75653580360341",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_802_min.pdbqt",
+      "box_radius": "6.7721629103275784",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_803_min.pdbqt",
+      "box_radius": "11.492287602956122",
+      "heavy_atom": "33"
+    },
+    {
+      "ligand_file": "fraglig_804_min.pdbqt",
+      "box_radius": "11.003894177131215",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_805_min.pdbqt",
+      "box_radius": "7.6356310309675335",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_806_min.pdbqt",
+      "box_radius": "5.451956369269524",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_807_min.pdbqt",
+      "box_radius": "7.672423651341837",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_808_min.pdbqt",
+      "box_radius": "5.420369979650462",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_809_min.pdbqt",
+      "box_radius": "11.201051911277533",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_80_min.pdbqt",
+      "box_radius": "6.9967310483704255",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_810_min.pdbqt",
+      "box_radius": "6.947766934654142",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_811_min.pdbqt",
+      "box_radius": "10.126209037093538",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_812_min.pdbqt",
+      "box_radius": "5.175660429020585",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_813_min.pdbqt",
+      "box_radius": "6.350855076257154",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_814_min.pdbqt",
+      "box_radius": "7.8775000740490935",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_815_min.pdbqt",
+      "box_radius": "9.265161146197858",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_816_min.pdbqt",
+      "box_radius": "8.182288286017386",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_817_min.pdbqt",
+      "box_radius": "5.756378228111923",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_818_min.pdbqt",
+      "box_radius": "6.962552003727347",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_819_min.pdbqt",
+      "box_radius": "11.074100461275902",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_81_min.pdbqt",
+      "box_radius": "6.997589469017615",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_820_min.pdbqt",
+      "box_radius": "11.790778615800447",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_821_min.pdbqt",
+      "box_radius": "11.115866515962429",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_822_min.pdbqt",
+      "box_radius": "8.516676389132206",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_823_min.pdbqt",
+      "box_radius": "6.884885867003545",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_824_min.pdbqt",
+      "box_radius": "5.010025728057283",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_825_min.pdbqt",
+      "box_radius": "7.028067228928363",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_826_min.pdbqt",
+      "box_radius": "8.075673488014894",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_827_min.pdbqt",
+      "box_radius": "12.158750901673299",
+      "heavy_atom": "37"
+    },
+    {
+      "ligand_file": "fraglig_828_min.pdbqt",
+      "box_radius": "5.61844246288833",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_829_min.pdbqt",
+      "box_radius": "7.624752104286502",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_82_min.pdbqt",
+      "box_radius": "6.555443621151633",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_830_min.pdbqt",
+      "box_radius": "7.159607364922468",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_831_min.pdbqt",
+      "box_radius": "10.318906400658992",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_832_min.pdbqt",
+      "box_radius": "6.607339261834313",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_833_min.pdbqt",
+      "box_radius": "7.813260994202018",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_834_min.pdbqt",
+      "box_radius": "8.26032479118033",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_835_min.pdbqt",
+      "box_radius": "10.282797746040814",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_836_min.pdbqt",
+      "box_radius": "9.1398040226457",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_837_min.pdbqt",
+      "box_radius": "9.426592479954738",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_838_min.pdbqt",
+      "box_radius": "8.382260479710185",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_839_min.pdbqt",
+      "box_radius": "8.132937044888932",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_83_min.pdbqt",
+      "box_radius": "6.959110185405038",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_840_min.pdbqt",
+      "box_radius": "9.34304757997485",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_841_min.pdbqt",
+      "box_radius": "8.997970860894622",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_842_min.pdbqt",
+      "box_radius": "10.741707552878188",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_843_min.pdbqt",
+      "box_radius": "11.135574946901881",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_844_min.pdbqt",
+      "box_radius": "12.177223789491583",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_845_min.pdbqt",
+      "box_radius": "11.360885283263277",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_846_min.pdbqt",
+      "box_radius": "11.411229686249865",
+      "heavy_atom": "34"
+    },
+    {
+      "ligand_file": "fraglig_847_min.pdbqt",
+      "box_radius": "7.937338389711561",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_848_min.pdbqt",
+      "box_radius": "10.859469523537095",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_849_min.pdbqt",
+      "box_radius": "9.914515582294877",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_84_min.pdbqt",
+      "box_radius": "7.458608960908902",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_850_min.pdbqt",
+      "box_radius": "8.37805388714789",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_851_min.pdbqt",
+      "box_radius": "8.793915072836331",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_852_min.pdbqt",
+      "box_radius": "12.035309543181905",
+      "heavy_atom": "34"
+    },
+    {
+      "ligand_file": "fraglig_853_min.pdbqt",
+      "box_radius": "10.473850309127878",
+      "heavy_atom": "29"
+    },
+    {
+      "ligand_file": "fraglig_854_min.pdbqt",
+      "box_radius": "9.811941790196077",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_855_min.pdbqt",
+      "box_radius": "11.396704231486423",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_856_min.pdbqt",
+      "box_radius": "10.47782130142772",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_857_min.pdbqt",
+      "box_radius": "10.292382899596674",
+      "heavy_atom": "23"
+    },
+    {
+      "ligand_file": "fraglig_858_min.pdbqt",
+      "box_radius": "12.102266954461614",
+      "heavy_atom": "34"
+    },
+    {
+      "ligand_file": "fraglig_859_min.pdbqt",
+      "box_radius": "9.895560895424506",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_85_min.pdbqt",
+      "box_radius": "6.022714973759343",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_860_min.pdbqt",
+      "box_radius": "8.818704450022821",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_861_min.pdbqt",
+      "box_radius": "10.881379912480254",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_862_min.pdbqt",
+      "box_radius": "5.438298852654789",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_863_min.pdbqt",
+      "box_radius": "9.056489404965715",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_864_min.pdbqt",
+      "box_radius": "7.921764203392017",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_865_min.pdbqt",
+      "box_radius": "8.222259862473603",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_866_min.pdbqt",
+      "box_radius": "9.453550369666113",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_867_min.pdbqt",
+      "box_radius": "11.63169058179291",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_868_min.pdbqt",
+      "box_radius": "8.82888216385076",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_869_min.pdbqt",
+      "box_radius": "9.099549886734941",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_86_min.pdbqt",
+      "box_radius": "8.662324146249402",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_870_min.pdbqt",
+      "box_radius": "12.840736376230796",
+      "heavy_atom": "36"
+    },
+    {
+      "ligand_file": "fraglig_871_min.pdbqt",
+      "box_radius": "9.856220770019176",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_872_min.pdbqt",
+      "box_radius": "5.002688075078873",
+      "heavy_atom": "7"
+    },
+    {
+      "ligand_file": "fraglig_873_min.pdbqt",
+      "box_radius": "4.603610238296688",
+      "heavy_atom": "6"
+    },
+    {
+      "ligand_file": "fraglig_874_min.pdbqt",
+      "box_radius": "12.338073400955302",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_875_min.pdbqt",
+      "box_radius": "11.833547484067461",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_876_min.pdbqt",
+      "box_radius": "8.660194977576896",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_877_min.pdbqt",
+      "box_radius": "12.998933509409797",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_878_min.pdbqt",
+      "box_radius": "12.112600628858774",
+      "heavy_atom": "38"
+    },
+    {
+      "ligand_file": "fraglig_879_min.pdbqt",
+      "box_radius": "9.403129799508184",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_87_min.pdbqt",
+      "box_radius": "5.39372699499875",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_880_min.pdbqt",
+      "box_radius": "7.594827660577455",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_881_min.pdbqt",
+      "box_radius": "9.199045145639392",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_882_min.pdbqt",
+      "box_radius": "13.11868673657395",
+      "heavy_atom": "37"
+    },
+    {
+      "ligand_file": "fraglig_883_min.pdbqt",
+      "box_radius": "10.672755020402837",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_884_min.pdbqt",
+      "box_radius": "11.711425162920671",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_885_min.pdbqt",
+      "box_radius": "7.314648535156531",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_886_min.pdbqt",
+      "box_radius": "8.725690051374352",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_887_min.pdbqt",
+      "box_radius": "9.460186764030816",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_888_min.pdbqt",
+      "box_radius": "7.965672307704187",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_889_min.pdbqt",
+      "box_radius": "8.305468360872442",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_88_min.pdbqt",
+      "box_radius": "4.594275217172542",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_890_min.pdbqt",
+      "box_radius": "9.997337896080152",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_891_min.pdbqt",
+      "box_radius": "8.369694002433338",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_892_min.pdbqt",
+      "box_radius": "8.830418479351609",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_893_min.pdbqt",
+      "box_radius": "11.388607536844544",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_894_min.pdbqt",
+      "box_radius": "9.444522771598422",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_895_min.pdbqt",
+      "box_radius": "5.860146320058808",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_896_min.pdbqt",
+      "box_radius": "12.84866942809514",
+      "heavy_atom": "35"
+    },
+    {
+      "ligand_file": "fraglig_897_min.pdbqt",
+      "box_radius": "12.748814771649126",
+      "heavy_atom": "37"
+    },
+    {
+      "ligand_file": "fraglig_898_min.pdbqt",
+      "box_radius": "10.260074245700032",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_899_min.pdbqt",
+      "box_radius": "5.232950715901459",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_89_min.pdbqt",
+      "box_radius": "7.1271488714908395",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_8_min.pdbqt",
+      "box_radius": "5.591810533133384",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_900_min.pdbqt",
+      "box_radius": "3.018477468756392",
+      "heavy_atom": "5"
+    },
+    {
+      "ligand_file": "fraglig_901_min.pdbqt",
+      "box_radius": "6.527788137411599",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_902_min.pdbqt",
+      "box_radius": "7.170084531265479",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_903_min.pdbqt",
+      "box_radius": "8.34697582889189",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_904_min.pdbqt",
+      "box_radius": "9.107657549231465",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_905_min.pdbqt",
+      "box_radius": "9.073438636796702",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_906_min.pdbqt",
+      "box_radius": "10.897355223605866",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_907_min.pdbqt",
+      "box_radius": "7.312965992367113",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_908_min.pdbqt",
+      "box_radius": "7.422200100681227",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_909_min.pdbqt",
+      "box_radius": "8.279412442718735",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_90_min.pdbqt",
+      "box_radius": "5.525795405219154",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_910_min.pdbqt",
+      "box_radius": "9.593135637833512",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_911_min.pdbqt",
+      "box_radius": "12.131236756047821",
+      "heavy_atom": "34"
+    },
+    {
+      "ligand_file": "fraglig_912_min.pdbqt",
+      "box_radius": "6.572366823230955",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_913_min.pdbqt",
+      "box_radius": "6.142188317701392",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_914_min.pdbqt",
+      "box_radius": "9.201662552810904",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_915_min.pdbqt",
+      "box_radius": "6.177716270185273",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_916_min.pdbqt",
+      "box_radius": "8.797113017535619",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_917_min.pdbqt",
+      "box_radius": "12.408751322891595",
+      "heavy_atom": "30"
+    },
+    {
+      "ligand_file": "fraglig_918_min.pdbqt",
+      "box_radius": "7.858422000761148",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_919_min.pdbqt",
+      "box_radius": "12.38809865371177",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_91_min.pdbqt",
+      "box_radius": "6.432796472818448",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_920_min.pdbqt",
+      "box_radius": "12.279152561266667",
+      "heavy_atom": "36"
+    },
+    {
+      "ligand_file": "fraglig_921_min.pdbqt",
+      "box_radius": "7.262353451908381",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_922_min.pdbqt",
+      "box_radius": "10.975396100374944",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_923_min.pdbqt",
+      "box_radius": "8.222997063211963",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_924_min.pdbqt",
+      "box_radius": "9.163784642546474",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_925_min.pdbqt",
+      "box_radius": "11.15698669905772",
+      "heavy_atom": "36"
+    },
+    {
+      "ligand_file": "fraglig_926_min.pdbqt",
+      "box_radius": "8.570892837540427",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_927_min.pdbqt",
+      "box_radius": "10.072761965996124",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_928_min.pdbqt",
+      "box_radius": "4.98933748951451",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_929_min.pdbqt",
+      "box_radius": "11.20752533963629",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_92_min.pdbqt",
+      "box_radius": "5.794916707324351",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_930_min.pdbqt",
+      "box_radius": "13.099459357303274",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_931_min.pdbqt",
+      "box_radius": "12.293651893411983",
+      "heavy_atom": "35"
+    },
+    {
+      "ligand_file": "fraglig_932_min.pdbqt",
+      "box_radius": "8.508269603866147",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_933_min.pdbqt",
+      "box_radius": "8.385685947938711",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_934_min.pdbqt",
+      "box_radius": "6.776726639357038",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_935_min.pdbqt",
+      "box_radius": "7.986600880551694",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_936_min.pdbqt",
+      "box_radius": "8.222127541026639",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_937_min.pdbqt",
+      "box_radius": "14.643020504895615",
+      "heavy_atom": "39"
+    },
+    {
+      "ligand_file": "fraglig_938_min.pdbqt",
+      "box_radius": "8.774041105125022",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_939_min.pdbqt",
+      "box_radius": "9.214798057799706",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_93_min.pdbqt",
+      "box_radius": "5.56381127445738",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_940_min.pdbqt",
+      "box_radius": "10.78912546459592",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_941_min.pdbqt",
+      "box_radius": "14.408800602331157",
+      "heavy_atom": "38"
+    },
+    {
+      "ligand_file": "fraglig_942_min.pdbqt",
+      "box_radius": "9.772125619774316",
+      "heavy_atom": "22"
+    },
+    {
+      "ligand_file": "fraglig_943_min.pdbqt",
+      "box_radius": "4.860389429585543",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_944_min.pdbqt",
+      "box_radius": "7.281984640332547",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_945_min.pdbqt",
+      "box_radius": "10.22551216022545",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_946_min.pdbqt",
+      "box_radius": "8.284092178491397",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_947_min.pdbqt",
+      "box_radius": "9.090359706122042",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_948_min.pdbqt",
+      "box_radius": "6.198491545684911",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_949_min.pdbqt",
+      "box_radius": "7.734826905240779",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_94_min.pdbqt",
+      "box_radius": "11.292713031757298",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_950_min.pdbqt",
+      "box_radius": "7.018089449361138",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_951_min.pdbqt",
+      "box_radius": "12.437651183443196",
+      "heavy_atom": "24"
+    },
+    {
+      "ligand_file": "fraglig_952_min.pdbqt",
+      "box_radius": "12.777825254820577",
+      "heavy_atom": "34"
+    },
+    {
+      "ligand_file": "fraglig_953_min.pdbqt",
+      "box_radius": "8.2690743476428",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_954_min.pdbqt",
+      "box_radius": "12.404719142630368",
+      "heavy_atom": "37"
+    },
+    {
+      "ligand_file": "fraglig_955_min.pdbqt",
+      "box_radius": "10.912129965979707",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_956_min.pdbqt",
+      "box_radius": "10.712027148386438",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_957_min.pdbqt",
+      "box_radius": "10.474859145440497",
+      "heavy_atom": "19"
+    },
+    {
+      "ligand_file": "fraglig_958_min.pdbqt",
+      "box_radius": "8.385410412904754",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_959_min.pdbqt",
+      "box_radius": "14.183618842152006",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_95_min.pdbqt",
+      "box_radius": "8.401712591514919",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_960_min.pdbqt",
+      "box_radius": "11.945318655018415",
+      "heavy_atom": "36"
+    },
+    {
+      "ligand_file": "fraglig_961_min.pdbqt",
+      "box_radius": "8.768240155399756",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_962_min.pdbqt",
+      "box_radius": "10.602236830546863",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_963_min.pdbqt",
+      "box_radius": "7.6337722716133944",
+      "heavy_atom": "11"
+    },
+    {
+      "ligand_file": "fraglig_964_min.pdbqt",
+      "box_radius": "10.553970023867066",
+      "heavy_atom": "37"
+    },
+    {
+      "ligand_file": "fraglig_965_min.pdbqt",
+      "box_radius": "11.34084512558439",
+      "heavy_atom": "33"
+    },
+    {
+      "ligand_file": "fraglig_966_min.pdbqt",
+      "box_radius": "12.54227383313067",
+      "heavy_atom": "36"
+    },
+    {
+      "ligand_file": "fraglig_967_min.pdbqt",
+      "box_radius": "13.683468887702539",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_968_min.pdbqt",
+      "box_radius": "11.224650101304283",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_969_min.pdbqt",
+      "box_radius": "9.410732455071772",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_96_min.pdbqt",
+      "box_radius": "6.11381765115821",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_970_min.pdbqt",
+      "box_radius": "12.155976443397844",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_971_min.pdbqt",
+      "box_radius": "6.357782113786144",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_972_min.pdbqt",
+      "box_radius": "9.584770146215021",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_973_min.pdbqt",
+      "box_radius": "8.096216195294474",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_974_min.pdbqt",
+      "box_radius": "9.962450760455813",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_975_min.pdbqt",
+      "box_radius": "14.594521809666523",
+      "heavy_atom": "39"
+    },
+    {
+      "ligand_file": "fraglig_976_min.pdbqt",
+      "box_radius": "7.35168418202786",
+      "heavy_atom": "12"
+    },
+    {
+      "ligand_file": "fraglig_977_min.pdbqt",
+      "box_radius": "10.252215007701864",
+      "heavy_atom": "18"
+    },
+    {
+      "ligand_file": "fraglig_978_min.pdbqt",
+      "box_radius": "13.534153771486974",
+      "heavy_atom": "38"
+    },
+    {
+      "ligand_file": "fraglig_979_min.pdbqt",
+      "box_radius": "9.42673881447074",
+      "heavy_atom": "25"
+    },
+    {
+      "ligand_file": "fraglig_97_min.pdbqt",
+      "box_radius": "7.266911012978124",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_980_min.pdbqt",
+      "box_radius": "8.446383767255238",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_981_min.pdbqt",
+      "box_radius": "8.005408472415462",
+      "heavy_atom": "17"
+    },
+    {
+      "ligand_file": "fraglig_982_min.pdbqt",
+      "box_radius": "8.79120699630055",
+      "heavy_atom": "13"
+    },
+    {
+      "ligand_file": "fraglig_983_min.pdbqt",
+      "box_radius": "9.010127172089689",
+      "heavy_atom": "21"
+    },
+    {
+      "ligand_file": "fraglig_984_min.pdbqt",
+      "box_radius": "9.269652385154988",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_985_min.pdbqt",
+      "box_radius": "13.029486105147429",
+      "heavy_atom": "33"
+    },
+    {
+      "ligand_file": "fraglig_986_min.pdbqt",
+      "box_radius": "6.471378504440019",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_987_min.pdbqt",
+      "box_radius": "11.764332182532282",
+      "heavy_atom": "35"
+    },
+    {
+      "ligand_file": "fraglig_988_min.pdbqt",
+      "box_radius": "12.495075808108588",
+      "heavy_atom": "32"
+    },
+    {
+      "ligand_file": "fraglig_989_min.pdbqt",
+      "box_radius": "12.237027360255048",
+      "heavy_atom": "33"
+    },
+    {
+      "ligand_file": "fraglig_98_min.pdbqt",
+      "box_radius": "9.244058069365146",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_990_min.pdbqt",
+      "box_radius": "12.64343325887191",
+      "heavy_atom": "33"
+    },
+    {
+      "ligand_file": "fraglig_991_min.pdbqt",
+      "box_radius": "10.515790034756762",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_992_min.pdbqt",
+      "box_radius": "9.368807418860403",
+      "heavy_atom": "20"
+    },
+    {
+      "ligand_file": "fraglig_993_min.pdbqt",
+      "box_radius": "13.210166435424851",
+      "heavy_atom": "31"
+    },
+    {
+      "ligand_file": "fraglig_994_min.pdbqt",
+      "box_radius": "8.577727064323774",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_995_min.pdbqt",
+      "box_radius": "6.169282459342793",
+      "heavy_atom": "9"
+    },
+    {
+      "ligand_file": "fraglig_996_min.pdbqt",
+      "box_radius": "6.935130851891489",
+      "heavy_atom": "14"
+    },
+    {
+      "ligand_file": "fraglig_997_min.pdbqt",
+      "box_radius": "7.213693536011478",
+      "heavy_atom": "10"
+    },
+    {
+      "ligand_file": "fraglig_998_min.pdbqt",
+      "box_radius": "7.549335085209452",
+      "heavy_atom": "15"
+    },
+    {
+      "ligand_file": "fraglig_999_min.pdbqt",
+      "box_radius": "4.279745384508075",
+      "heavy_atom": "8"
+    },
+    {
+      "ligand_file": "fraglig_99_min.pdbqt",
+      "box_radius": "10.21878258576524",
+      "heavy_atom": "16"
+    },
+    {
+      "ligand_file": "fraglig_9_min.pdbqt",
+      "box_radius": "5.50136360750933",
+      "heavy_atom": "9"
+    }
+  ]
+}

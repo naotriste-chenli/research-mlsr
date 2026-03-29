@@ -1,0 +1,43 @@
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_3 
+REMARK    2  A    between atoms: O_3  and  C_4 
+REMARK    3  A    between atoms: C_4  and  C_6 
+REMARK    4  A    between atoms: C_6  and  C_7 
+REMARK    5  A    between atoms: C_6  and  N_11 
+REMARK    6  A    between atoms: C_7  and  C_8 
+REMARK       I    between atoms: N_11  and  C_12 
+REMARK    7  A    between atoms: C_12  and  S_14 
+ROOT
+HETATM    1  C   UNL     1      -2.954   0.150   1.484  1.00  0.00     0.185 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   UNL     1      -3.932   1.335   1.357  1.00  0.00     0.281 C 
+HETATM    3  O   UNL     1      -5.152   1.257   1.345  1.00  0.00    -0.263 OA
+BRANCH   2   4
+HETATM    4  O   UNL     1      -3.239   2.471   1.031  1.00  0.00    -0.320 OA
+BRANCH   4   5
+HETATM    5  C   UNL     1      -3.753   3.161  -0.113  1.00  0.00     0.174 C 
+HETATM    6  C   UNL     1      -2.579   3.309  -1.065  1.00  0.00     0.034 C 
+ENDBRANCH   4   5
+ENDBRANCH   2   4
+ENDBRANCH   1   2
+BRANCH   1   7
+HETATM    7  C   UNL     1      -3.003  -0.675   0.170  1.00  0.00     0.039 C 
+BRANCH   7   8
+HETATM    8  C   UNL     1      -4.330  -1.500   0.000  1.00  0.00    -0.020 C 
+HETATM    9  C   UNL     1      -5.106  -0.908  -1.220  1.00  0.00     0.009 C 
+HETATM   10  C   UNL     1      -4.330  -2.500   0.000  1.00  0.00     0.009 C 
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+BRANCH   1  11
+HETATM   11  N   UNL     1      -1.601   0.667   1.680  1.00  0.00    -0.338 N 
+HETATM   12  C   UNL     1      -0.528  -0.120   1.922  1.00  0.00     0.280 C 
+HETATM   13  O   UNL     1      -0.535  -1.307   2.208  1.00  0.00    -0.260 OA
+HETATM   14  H   UNL     1      -1.411   1.625   1.402  1.00  0.00     0.164 HD
+BRANCH  12  15
+HETATM   15  S   UNL     1       0.931   0.778   1.606  1.00  0.00    -0.074 SA
+HETATM   16  C   UNL     1       1.293   0.031  -0.003  1.00  0.00     0.100 C 
+ENDBRANCH  12  15
+ENDBRANCH   1  11
+TORSDOF 7

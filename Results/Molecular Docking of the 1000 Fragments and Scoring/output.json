@@ -1,0 +1,5004 @@
+{
+  "data": [
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_1000_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_100_min",
+      "ligand_efficiency": "2.39707"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_101_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_102_min",
+      "ligand_efficiency": "1.27052"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_103_min",
+      "ligand_efficiency": "1.67631"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_104_min",
+      "ligand_efficiency": "1.2554"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_105_min",
+      "ligand_efficiency": "2.4689"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_106_min",
+      "ligand_efficiency": "1.6342"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_107_min",
+      "ligand_efficiency": "1.94588"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_108_min",
+      "ligand_efficiency": "2.32403"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_109_min",
+      "ligand_efficiency": "2.1508"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_10_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_110_min",
+      "ligand_efficiency": "2.34904"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_111_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_112_min",
+      "ligand_efficiency": "1.91534"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_113_min",
+      "ligand_efficiency": "1.14375"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_114_min",
+      "ligand_efficiency": "2.27336"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_115_min",
+      "ligand_efficiency": "1.15464"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_116_min",
+      "ligand_efficiency": "1.11637"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_117_min",
+      "ligand_efficiency": "1.78321"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_118_min",
+      "ligand_efficiency": "2.39404"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_119_min",
+      "ligand_efficiency": "1.91909"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_11_min",
+      "ligand_efficiency": "2.10532"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_120_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_121_min",
+      "ligand_efficiency": "2.07684"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_122_min",
+      "ligand_efficiency": "2.59977"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_123_min",
+      "ligand_efficiency": "2.54377"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_124_min",
+      "ligand_efficiency": "2.08004"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_125_min",
+      "ligand_efficiency": "2.43535"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_126_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_127_min",
+      "ligand_efficiency": "0.702744"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_128_min",
+      "ligand_efficiency": "2.69574"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_129_min",
+      "ligand_efficiency": "1.17709"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_12_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_130_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_131_min",
+      "ligand_efficiency": "1.91992"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_132_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_133_min",
+      "ligand_efficiency": "2.16612"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_134_min",
+      "ligand_efficiency": "1.63268"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_135_min",
+      "ligand_efficiency": "2.18988"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_136_min",
+      "ligand_efficiency": "1.79372"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_137_min",
+      "ligand_efficiency": "2.53629"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_138_min",
+      "ligand_efficiency": "1.62852"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_139_min",
+      "ligand_efficiency": "1.84847"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_13_min",
+      "ligand_efficiency": "1.46309"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_140_min",
+      "ligand_efficiency": "2.59401"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_141_min",
+      "ligand_efficiency": "1.56257"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_142_min",
+      "ligand_efficiency": "1.35449"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_143_min",
+      "ligand_efficiency": "1.72681"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_144_min",
+      "ligand_efficiency": "1.52504"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_145_min",
+      "ligand_efficiency": "1.8066"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_146_min",
+      "ligand_efficiency": "1.86696"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_147_min",
+      "ligand_efficiency": "1.84229"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_148_min",
+      "ligand_efficiency": "2.81686"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_149_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_14_min",
+      "ligand_efficiency": "2.31634"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_150_min",
+      "ligand_efficiency": "2.1508"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_151_min",
+      "ligand_efficiency": "2.58627"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_152_min",
+      "ligand_efficiency": "0.803917"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_153_min",
+      "ligand_efficiency": "1.95023"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_154_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_155_min",
+      "ligand_efficiency": "2.1111"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_156_min",
+      "ligand_efficiency": "2.27413"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_157_min",
+      "ligand_efficiency": "0.982241"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_158_min",
+      "ligand_efficiency": "2.1341"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_159_min",
+      "ligand_efficiency": "1.33567"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_15_min",
+      "ligand_efficiency": "2.35199"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_160_min",
+      "ligand_efficiency": "1.7764"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_161_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_162_min",
+      "ligand_efficiency": "2.28782"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_163_min",
+      "ligand_efficiency": "1.44467"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_164_min",
+      "ligand_efficiency": "1.87107"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_165_min",
+      "ligand_efficiency": "2.18439"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_166_min",
+      "ligand_efficiency": "2.19054"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_167_min",
+      "ligand_efficiency": "1.97722"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_168_min",
+      "ligand_efficiency": "2.77241"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_169_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_16_min",
+      "ligand_efficiency": "2.70155"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_170_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_171_min",
+      "ligand_efficiency": "1.55749"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_172_min",
+      "ligand_efficiency": "1.79443"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_173_min",
+      "ligand_efficiency": "1.59395"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_174_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_175_min",
+      "ligand_efficiency": "2.05402"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_176_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_177_min",
+      "ligand_efficiency": "1.25408"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_178_min",
+      "ligand_efficiency": "2.1257"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_179_min",
+      "ligand_efficiency": "1.99444"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_17_min",
+      "ligand_efficiency": "1.8029"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_180_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_181_min",
+      "ligand_efficiency": "2.01974"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_182_min",
+      "ligand_efficiency": "2.41903"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_183_min",
+      "ligand_efficiency": "1.32359"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_184_min",
+      "ligand_efficiency": "2.225"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_185_min",
+      "ligand_efficiency": "1.7235"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_186_min",
+      "ligand_efficiency": "1.18668"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_187_min",
+      "ligand_efficiency": "1.38435"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_188_min",
+      "ligand_efficiency": "1.90501"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_189_min",
+      "ligand_efficiency": "2.16264"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_18_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_190_min",
+      "ligand_efficiency": "2.22925"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_191_min",
+      "ligand_efficiency": "2.25618"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_192_min",
+      "ligand_efficiency": "2.19414"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_193_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_194_min",
+      "ligand_efficiency": "1.16727"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_195_min",
+      "ligand_efficiency": "2.29454"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_196_min",
+      "ligand_efficiency": "1.01343"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_197_min",
+      "ligand_efficiency": "1.51382"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_198_min",
+      "ligand_efficiency": "1.90522"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_199_min",
+      "ligand_efficiency": "1.81233"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_19_min",
+      "ligand_efficiency": "2.0478"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_1_min",
+      "ligand_efficiency": "1.86031"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_200_min",
+      "ligand_efficiency": "2.0369"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_201_min",
+      "ligand_efficiency": "1.43354"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_202_min",
+      "ligand_efficiency": "1.59971"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_203_min",
+      "ligand_efficiency": "2.33346"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_204_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_205_min",
+      "ligand_efficiency": "2.21262"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_206_min",
+      "ligand_efficiency": "1.98156"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_207_min",
+      "ligand_efficiency": "2.12387"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_208_min",
+      "ligand_efficiency": "1.91446"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_209_min",
+      "ligand_efficiency": "1.62128"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_20_min",
+      "ligand_efficiency": "2.32817"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_210_min",
+      "ligand_efficiency": "1.78965"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_211_min",
+      "ligand_efficiency": "1.93556"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_212_min",
+      "ligand_efficiency": "2.22052"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_213_min",
+      "ligand_efficiency": "2.15442"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_214_min",
+      "ligand_efficiency": "2.05227"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_215_min",
+      "ligand_efficiency": "1.77064"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_216_min",
+      "ligand_efficiency": "2.24987"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_217_min",
+      "ligand_efficiency": "2.47123"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_218_min",
+      "ligand_efficiency": "2.24987"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_219_min",
+      "ligand_efficiency": "1.43153"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_21_min",
+      "ligand_efficiency": "1.98541"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_220_min",
+      "ligand_efficiency": "1.24987"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_221_min",
+      "ligand_efficiency": "2.25436"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_222_min",
+      "ligand_efficiency": "1.77818"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_223_min",
+      "ligand_efficiency": "2.09977"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_224_min",
+      "ligand_efficiency": "1.87019"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_225_min",
+      "ligand_efficiency": "1.65007"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_226_min",
+      "ligand_efficiency": "2.11937"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_227_min",
+      "ligand_efficiency": "2.69202"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_228_min",
+      "ligand_efficiency": "2.56955"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_229_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_22_min",
+      "ligand_efficiency": "0.798332"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_230_min",
+      "ligand_efficiency": "2.16703"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_231_min",
+      "ligand_efficiency": "1.00478"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_232_min",
+      "ligand_efficiency": "1.76343"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_233_min",
+      "ligand_efficiency": "1.84755"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_234_min",
+      "ligand_efficiency": "2.28876"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_235_min",
+      "ligand_efficiency": "1.64174"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_236_min",
+      "ligand_efficiency": "1.85493"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_237_min",
+      "ligand_efficiency": "1.90985"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_238_min",
+      "ligand_efficiency": "2.1038"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_239_min",
+      "ligand_efficiency": "1.78491"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_23_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_240_min",
+      "ligand_efficiency": "0.98805"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_241_min",
+      "ligand_efficiency": "2.47159"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_242_min",
+      "ligand_efficiency": "1.87485"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_243_min",
+      "ligand_efficiency": "1.50914"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_244_min",
+      "ligand_efficiency": "2.44538"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_245_min",
+      "ligand_efficiency": "1.06054"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_246_min",
+      "ligand_efficiency": "1.13738"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_247_min",
+      "ligand_efficiency": "1.20514"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_248_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_249_min",
+      "ligand_efficiency": "2.21505"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_24_min",
+      "ligand_efficiency": "1.43087"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_250_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_251_min",
+      "ligand_efficiency": "1.9361"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_252_min",
+      "ligand_efficiency": "1.68228"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_253_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_254_min",
+      "ligand_efficiency": "1.89466"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_255_min",
+      "ligand_efficiency": "1.88141"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_256_min",
+      "ligand_efficiency": "2.29746"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_257_min",
+      "ligand_efficiency": "1.79626"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_258_min",
+      "ligand_efficiency": "2.53347"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_259_min",
+      "ligand_efficiency": "2.09977"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_25_min",
+      "ligand_efficiency": "1.1695"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_260_min",
+      "ligand_efficiency": "2.12926"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_261_min",
+      "ligand_efficiency": "1.48876"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_262_min",
+      "ligand_efficiency": "2.18441"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_263_min",
+      "ligand_efficiency": "1.13362"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_264_min",
+      "ligand_efficiency": "1.69587"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_265_min",
+      "ligand_efficiency": "2.44186"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_266_min",
+      "ligand_efficiency": "1.50853"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_267_min",
+      "ligand_efficiency": "1.99826"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_268_min",
+      "ligand_efficiency": "1.81942"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_269_min",
+      "ligand_efficiency": "1.44601"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_26_min",
+      "ligand_efficiency": "2.21461"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_270_min",
+      "ligand_efficiency": "2.60745"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_271_min",
+      "ligand_efficiency": "2.5712"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_272_min",
+      "ligand_efficiency": "1.02577"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_273_min",
+      "ligand_efficiency": "2.28383"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_274_min",
+      "ligand_efficiency": "1.82998"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_275_min",
+      "ligand_efficiency": "1.59689"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_276_min",
+      "ligand_efficiency": "2.24823"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_277_min",
+      "ligand_efficiency": "2.14413"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_278_min",
+      "ligand_efficiency": "1.11266"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_279_min",
+      "ligand_efficiency": "1.90944"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_27_min",
+      "ligand_efficiency": "2.27239"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_280_min",
+      "ligand_efficiency": "2.15635"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_281_min",
+      "ligand_efficiency": "2.11607"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_282_min",
+      "ligand_efficiency": "2.17099"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_283_min",
+      "ligand_efficiency": "2.17893"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_284_min",
+      "ligand_efficiency": "1.57387"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_285_min",
+      "ligand_efficiency": "2.5029"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_286_min",
+      "ligand_efficiency": "1.61733"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_287_min",
+      "ligand_efficiency": "2.15411"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_288_min",
+      "ligand_efficiency": "1.88743"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_289_min",
+      "ligand_efficiency": "1.05557"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_28_min",
+      "ligand_efficiency": "2.6109"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_290_min",
+      "ligand_efficiency": "2.22163"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_291_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_292_min",
+      "ligand_efficiency": "1.96649"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_293_min",
+      "ligand_efficiency": "2.5055"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_294_min",
+      "ligand_efficiency": "2.0669"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_295_min",
+      "ligand_efficiency": "2.12377"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_296_min",
+      "ligand_efficiency": "1.34997"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_297_min",
+      "ligand_efficiency": "2.17958"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_298_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_299_min",
+      "ligand_efficiency": "1.48015"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_29_min",
+      "ligand_efficiency": "1.98964"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_2_min",
+      "ligand_efficiency": "1.39953"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_300_min",
+      "ligand_efficiency": "1.90303"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_301_min",
+      "ligand_efficiency": "1.94233"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_302_min",
+      "ligand_efficiency": "2.04809"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_303_min",
+      "ligand_efficiency": "2.32606"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_304_min",
+      "ligand_efficiency": "1.9877"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_305_min",
+      "ligand_efficiency": "1.58014"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_306_min",
+      "ligand_efficiency": "2.19714"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_307_min",
+      "ligand_efficiency": "1.77022"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_308_min",
+      "ligand_efficiency": "1.5148"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_309_min",
+      "ligand_efficiency": "2.6158"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_30_min",
+      "ligand_efficiency": "2.03945"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_310_min",
+      "ligand_efficiency": "2.11647"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_311_min",
+      "ligand_efficiency": "2.0632"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_312_min",
+      "ligand_efficiency": "1.16889"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_313_min",
+      "ligand_efficiency": "1.81623"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_314_min",
+      "ligand_efficiency": "1.87691"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_315_min",
+      "ligand_efficiency": "1.23507"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_316_min",
+      "ligand_efficiency": "1.97709"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_317_min",
+      "ligand_efficiency": "2.13138"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_318_min",
+      "ligand_efficiency": "0.768229"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_319_min",
+      "ligand_efficiency": "1.59309"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_31_min",
+      "ligand_efficiency": "2.07323"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_320_min",
+      "ligand_efficiency": "1.18481"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_321_min",
+      "ligand_efficiency": "2.08263"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_322_min",
+      "ligand_efficiency": "1.86904"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_323_min",
+      "ligand_efficiency": "1.72902"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_324_min",
+      "ligand_efficiency": "1.78498"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_325_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_326_min",
+      "ligand_efficiency": "1.60749"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_327_min",
+      "ligand_efficiency": "1.873"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_328_min",
+      "ligand_efficiency": "1.2889"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_329_min",
+      "ligand_efficiency": "2.19032"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_32_min",
+      "ligand_efficiency": "2.32241"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_330_min",
+      "ligand_efficiency": "1.962"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_331_min",
+      "ligand_efficiency": "1.92382"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_332_min",
+      "ligand_efficiency": "2.1381"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_333_min",
+      "ligand_efficiency": "2.05553"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_334_min",
+      "ligand_efficiency": "2.06034"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_335_min",
+      "ligand_efficiency": "0.860878"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_336_min",
+      "ligand_efficiency": "1.56206"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_337_min",
+      "ligand_efficiency": "1.8148"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_338_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_339_min",
+      "ligand_efficiency": "1.43888"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_33_min",
+      "ligand_efficiency": "2.0724"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_340_min",
+      "ligand_efficiency": "2.27878"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_341_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_342_min",
+      "ligand_efficiency": "1.86344"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_343_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_344_min",
+      "ligand_efficiency": "2.12391"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_345_min",
+      "ligand_efficiency": "2.16278"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_346_min",
+      "ligand_efficiency": "1.94705"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_347_min",
+      "ligand_efficiency": "2.08765"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_348_min",
+      "ligand_efficiency": "1.64847"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_349_min",
+      "ligand_efficiency": "2.36118"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_34_min",
+      "ligand_efficiency": "1.90956"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_350_min",
+      "ligand_efficiency": "2.41478"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_351_min",
+      "ligand_efficiency": "1.41582"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_352_min",
+      "ligand_efficiency": "1.57149"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_353_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_354_min",
+      "ligand_efficiency": "2.59506"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_355_min",
+      "ligand_efficiency": "1.85895"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_356_min",
+      "ligand_efficiency": "1.924"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_357_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_358_min",
+      "ligand_efficiency": "1.69407"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_359_min",
+      "ligand_efficiency": "2.04515"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_35_min",
+      "ligand_efficiency": "2.61488"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_360_min",
+      "ligand_efficiency": "2.16354"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_361_min",
+      "ligand_efficiency": "1.79179"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_362_min",
+      "ligand_efficiency": "1.91027"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_363_min",
+      "ligand_efficiency": "1.81866"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_364_min",
+      "ligand_efficiency": "1.91729"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_365_min",
+      "ligand_efficiency": "2.20564"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_366_min",
+      "ligand_efficiency": "2.43631"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_367_min",
+      "ligand_efficiency": "2.11223"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_368_min",
+      "ligand_efficiency": "1.61246"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_369_min",
+      "ligand_efficiency": "1.27786"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_36_min",
+      "ligand_efficiency": "1.40887"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_370_min",
+      "ligand_efficiency": "2.4926"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_371_min",
+      "ligand_efficiency": "1.86785"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_372_min",
+      "ligand_efficiency": "1.93061"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_373_min",
+      "ligand_efficiency": "2.3735"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_374_min",
+      "ligand_efficiency": "0.782698"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_375_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_376_min",
+      "ligand_efficiency": "2.17192"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_377_min",
+      "ligand_efficiency": "2.17905"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_378_min",
+      "ligand_efficiency": "1.66363"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_379_min",
+      "ligand_efficiency": "2.21867"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_37_min",
+      "ligand_efficiency": "1.94387"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_380_min",
+      "ligand_efficiency": "2.28575"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_381_min",
+      "ligand_efficiency": "0.554036"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_382_min",
+      "ligand_efficiency": "1.69559"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_383_min",
+      "ligand_efficiency": "2.17912"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_384_min",
+      "ligand_efficiency": "2.33532"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_385_min",
+      "ligand_efficiency": "1.43041"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_386_min",
+      "ligand_efficiency": "1.94197"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_387_min",
+      "ligand_efficiency": "2.1313"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_388_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_389_min",
+      "ligand_efficiency": "0.574757"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_38_min",
+      "ligand_efficiency": "2.27455"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_390_min",
+      "ligand_efficiency": "1.77298"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_391_min",
+      "ligand_efficiency": "2.10608"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_392_min",
+      "ligand_efficiency": "0.855993"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_393_min",
+      "ligand_efficiency": "1.56688"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_394_min",
+      "ligand_efficiency": "1.95681"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_395_min",
+      "ligand_efficiency": "2.07603"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_396_min",
+      "ligand_efficiency": "1.97652"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_397_min",
+      "ligand_efficiency": "1.30174"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_398_min",
+      "ligand_efficiency": "2.06826"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_399_min",
+      "ligand_efficiency": "1.7305"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_39_min",
+      "ligand_efficiency": "1.37968"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_3_min",
+      "ligand_efficiency": "1.93976"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_400_min",
+      "ligand_efficiency": "1.97648"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_401_min",
+      "ligand_efficiency": "2.01746"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_402_min",
+      "ligand_efficiency": "1.41877"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_403_min",
+      "ligand_efficiency": "1.57879"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_404_min",
+      "ligand_efficiency": "1.79762"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_405_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_406_min",
+      "ligand_efficiency": "2.31478"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_407_min",
+      "ligand_efficiency": "1.9599"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_408_min",
+      "ligand_efficiency": "1.59815"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_409_min",
+      "ligand_efficiency": "1.93996"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_40_min",
+      "ligand_efficiency": "2.41542"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_410_min",
+      "ligand_efficiency": "2.25549"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_411_min",
+      "ligand_efficiency": "1.7385"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_412_min",
+      "ligand_efficiency": "2.13886"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_413_min",
+      "ligand_efficiency": "0.51689"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_414_min",
+      "ligand_efficiency": "1.78187"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_415_min",
+      "ligand_efficiency": "1.94972"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_416_min",
+      "ligand_efficiency": "1.55838"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_417_min",
+      "ligand_efficiency": "0.824886"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_418_min",
+      "ligand_efficiency": "2.03921"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_419_min",
+      "ligand_efficiency": "2.02782"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_41_min",
+      "ligand_efficiency": "2.14611"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_420_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_421_min",
+      "ligand_efficiency": "2.19054"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_422_min",
+      "ligand_efficiency": "2.12508"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_423_min",
+      "ligand_efficiency": "1.72069"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_424_min",
+      "ligand_efficiency": "1.9672"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_425_min",
+      "ligand_efficiency": "2.02672"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_426_min",
+      "ligand_efficiency": "1.60793"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_427_min",
+      "ligand_efficiency": "1.77306"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_428_min",
+      "ligand_efficiency": "1.89641"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_429_min",
+      "ligand_efficiency": "2.02452"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_42_min",
+      "ligand_efficiency": "0.686114"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_430_min",
+      "ligand_efficiency": "1.25449"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_431_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_432_min",
+      "ligand_efficiency": "2.0907"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_433_min",
+      "ligand_efficiency": "1.58806"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_434_min",
+      "ligand_efficiency": "1.74284"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_435_min",
+      "ligand_efficiency": "1.93942"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_436_min",
+      "ligand_efficiency": "2.54702"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_437_min",
+      "ligand_efficiency": "1.14634"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_438_min",
+      "ligand_efficiency": "1.94487"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_439_min",
+      "ligand_efficiency": "2.1016"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_43_min",
+      "ligand_efficiency": "1.90507"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_440_min",
+      "ligand_efficiency": "2.0536"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_441_min",
+      "ligand_efficiency": "1.01654"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_442_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_443_min",
+      "ligand_efficiency": "2.39742"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_444_min",
+      "ligand_efficiency": "1.87003"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_445_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_446_min",
+      "ligand_efficiency": "2.3265"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_447_min",
+      "ligand_efficiency": "1.72447"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_448_min",
+      "ligand_efficiency": "1.48008"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_449_min",
+      "ligand_efficiency": "2.40352"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_44_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_450_min",
+      "ligand_efficiency": "2.59934"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_451_min",
+      "ligand_efficiency": "1.91272"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_452_min",
+      "ligand_efficiency": "2.1798"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_453_min",
+      "ligand_efficiency": "1.2829"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_454_min",
+      "ligand_efficiency": "2.36672"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_455_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_456_min",
+      "ligand_efficiency": "1.18862"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_457_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_458_min",
+      "ligand_efficiency": "2.24274"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_459_min",
+      "ligand_efficiency": "1.65559"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_45_min",
+      "ligand_efficiency": "1.95329"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_460_min",
+      "ligand_efficiency": "2.02805"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_461_min",
+      "ligand_efficiency": "1.8773"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_462_min",
+      "ligand_efficiency": "2.11952"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_463_min",
+      "ligand_efficiency": "2.05241"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_464_min",
+      "ligand_efficiency": "2.00677"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_465_min",
+      "ligand_efficiency": "1.64438"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_466_min",
+      "ligand_efficiency": "1.80023"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_467_min",
+      "ligand_efficiency": "2.02971"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_468_min",
+      "ligand_efficiency": "1.82013"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_469_min",
+      "ligand_efficiency": "2.1043"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_46_min",
+      "ligand_efficiency": "2.35882"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_470_min",
+      "ligand_efficiency": "2.27505"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_471_min",
+      "ligand_efficiency": "1.86388"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_472_min",
+      "ligand_efficiency": "2.14277"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_473_min",
+      "ligand_efficiency": "2.34391"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_474_min",
+      "ligand_efficiency": "1.95887"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_475_min",
+      "ligand_efficiency": "2.42417"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_476_min",
+      "ligand_efficiency": "2.04366"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_477_min",
+      "ligand_efficiency": "1.73199"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_478_min",
+      "ligand_efficiency": "1.78459"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_479_min",
+      "ligand_efficiency": "1.91014"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_47_min",
+      "ligand_efficiency": "2.2906"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_480_min",
+      "ligand_efficiency": "2.03757"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_481_min",
+      "ligand_efficiency": "2.21289"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_482_min",
+      "ligand_efficiency": "1.53381"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_483_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_484_min",
+      "ligand_efficiency": "1.47718"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_485_min",
+      "ligand_efficiency": "2.38437"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_486_min",
+      "ligand_efficiency": "2.2316"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_487_min",
+      "ligand_efficiency": "1.29116"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_488_min",
+      "ligand_efficiency": "2.02271"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_489_min",
+      "ligand_efficiency": "1.52"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_48_min",
+      "ligand_efficiency": "2.36181"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_490_min",
+      "ligand_efficiency": "2.55422"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_491_min",
+      "ligand_efficiency": "2.26314"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_492_min",
+      "ligand_efficiency": "2.17112"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_493_min",
+      "ligand_efficiency": "1.32309"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_494_min",
+      "ligand_efficiency": "2.26587"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_495_min",
+      "ligand_efficiency": "2.11422"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_496_min",
+      "ligand_efficiency": "1.44561"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_497_min",
+      "ligand_efficiency": "2.39011"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_498_min",
+      "ligand_efficiency": "2.03018"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_499_min",
+      "ligand_efficiency": "1.48212"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_49_min",
+      "ligand_efficiency": "1.90718"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_4_min",
+      "ligand_efficiency": "2.10041"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_500_min",
+      "ligand_efficiency": "2.56994"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_501_min",
+      "ligand_efficiency": "2.51591"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_502_min",
+      "ligand_efficiency": "1.38219"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_503_min",
+      "ligand_efficiency": "1.90497"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_504_min",
+      "ligand_efficiency": "1.32665"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_505_min",
+      "ligand_efficiency": "1.62027"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_506_min",
+      "ligand_efficiency": "1.88809"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_507_min",
+      "ligand_efficiency": "1.1919"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_508_min",
+      "ligand_efficiency": "1.69549"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_509_min",
+      "ligand_efficiency": "2.04995"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_50_min",
+      "ligand_efficiency": "1.26947"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_510_min",
+      "ligand_efficiency": "2.20467"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_511_min",
+      "ligand_efficiency": "1.78846"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_512_min",
+      "ligand_efficiency": "2.04757"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_513_min",
+      "ligand_efficiency": "1.78543"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_514_min",
+      "ligand_efficiency": "1.98466"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_515_min",
+      "ligand_efficiency": "1.96602"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_516_min",
+      "ligand_efficiency": "2.3256"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_517_min",
+      "ligand_efficiency": "2.02723"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_518_min",
+      "ligand_efficiency": "1.92773"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_519_min",
+      "ligand_efficiency": "2.04962"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_51_min",
+      "ligand_efficiency": "1.28376"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_520_min",
+      "ligand_efficiency": "2.02103"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_521_min",
+      "ligand_efficiency": "1.86582"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_522_min",
+      "ligand_efficiency": "2.66015"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_523_min",
+      "ligand_efficiency": "1.32073"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_524_min",
+      "ligand_efficiency": "1.98686"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_525_min",
+      "ligand_efficiency": "1.73385"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_526_min",
+      "ligand_efficiency": "1.95187"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_527_min",
+      "ligand_efficiency": "1.5352"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_528_min",
+      "ligand_efficiency": "2.49158"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_529_min",
+      "ligand_efficiency": "1.47718"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_52_min",
+      "ligand_efficiency": "1.87476"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_530_min",
+      "ligand_efficiency": "2.14808"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_531_min",
+      "ligand_efficiency": "1.75622"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_532_min",
+      "ligand_efficiency": "2.07912"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_533_min",
+      "ligand_efficiency": "1.73344"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_534_min",
+      "ligand_efficiency": "1.34409"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_535_min",
+      "ligand_efficiency": "2.12861"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_536_min",
+      "ligand_efficiency": "1.745"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_537_min",
+      "ligand_efficiency": "1.90578"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_538_min",
+      "ligand_efficiency": "1.79904"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_539_min",
+      "ligand_efficiency": "1.15115"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_53_min",
+      "ligand_efficiency": "1.80116"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_540_min",
+      "ligand_efficiency": "1.4835"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_541_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_542_min",
+      "ligand_efficiency": "1.92604"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_543_min",
+      "ligand_efficiency": "2.48645"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_544_min",
+      "ligand_efficiency": "1.74219"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_545_min",
+      "ligand_efficiency": "1.569"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_546_min",
+      "ligand_efficiency": "1.8901"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_547_min",
+      "ligand_efficiency": "2.21165"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_548_min",
+      "ligand_efficiency": "2.16076"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_549_min",
+      "ligand_efficiency": "2.19187"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_54_min",
+      "ligand_efficiency": "2.43823"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_550_min",
+      "ligand_efficiency": "1.71645"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_551_min",
+      "ligand_efficiency": "1.49326"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_552_min",
+      "ligand_efficiency": "2.07865"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_553_min",
+      "ligand_efficiency": "1.6733"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_554_min",
+      "ligand_efficiency": "2.07529"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_555_min",
+      "ligand_efficiency": "1.75826"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_556_min",
+      "ligand_efficiency": "1.86598"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_557_min",
+      "ligand_efficiency": "1.94648"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_558_min",
+      "ligand_efficiency": "1.57437"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_559_min",
+      "ligand_efficiency": "2.323"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_55_min",
+      "ligand_efficiency": "2.19609"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_560_min",
+      "ligand_efficiency": "1.4114"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_561_min",
+      "ligand_efficiency": "2.19388"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_562_min",
+      "ligand_efficiency": "2.28158"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_563_min",
+      "ligand_efficiency": "2.58806"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_564_min",
+      "ligand_efficiency": "1.64218"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_565_min",
+      "ligand_efficiency": "1.96675"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_566_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_567_min",
+      "ligand_efficiency": "2.15558"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_568_min",
+      "ligand_efficiency": "2.53325"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_569_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_56_min",
+      "ligand_efficiency": "2.53236"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_570_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_571_min",
+      "ligand_efficiency": "1.57845"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_572_min",
+      "ligand_efficiency": "2.75019"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_573_min",
+      "ligand_efficiency": "2.03794"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_574_min",
+      "ligand_efficiency": "1.77942"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_575_min",
+      "ligand_efficiency": "2.11368"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_576_min",
+      "ligand_efficiency": "1.75734"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_577_min",
+      "ligand_efficiency": "2.42595"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_578_min",
+      "ligand_efficiency": "1.50873"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_579_min",
+      "ligand_efficiency": "1.40652"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_57_min",
+      "ligand_efficiency": "2.58299"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_580_min",
+      "ligand_efficiency": "2.35009"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_581_min",
+      "ligand_efficiency": "2.09008"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_582_min",
+      "ligand_efficiency": "1.75771"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_583_min",
+      "ligand_efficiency": "1.59389"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_584_min",
+      "ligand_efficiency": "2.18587"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_585_min",
+      "ligand_efficiency": "1.69881"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_586_min",
+      "ligand_efficiency": "1.93486"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_587_min",
+      "ligand_efficiency": "1.7046"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_588_min",
+      "ligand_efficiency": "1.46342"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_589_min",
+      "ligand_efficiency": "2.01343"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_58_min",
+      "ligand_efficiency": "1.36736"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_590_min",
+      "ligand_efficiency": "1.79451"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_591_min",
+      "ligand_efficiency": "2.02971"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_592_min",
+      "ligand_efficiency": "1.82318"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_593_min",
+      "ligand_efficiency": "2.05864"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_594_min",
+      "ligand_efficiency": "2.47221"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_595_min",
+      "ligand_efficiency": "1.25635"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_596_min",
+      "ligand_efficiency": "1.86034"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_597_min",
+      "ligand_efficiency": "1.57164"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_598_min",
+      "ligand_efficiency": "2.78507"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_599_min",
+      "ligand_efficiency": "1.5828"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_59_min",
+      "ligand_efficiency": "0.017149"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_5_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_600_min",
+      "ligand_efficiency": "1.81301"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_601_min",
+      "ligand_efficiency": "1.82484"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_602_min",
+      "ligand_efficiency": "1.18925"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_603_min",
+      "ligand_efficiency": "2.0589"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_604_min",
+      "ligand_efficiency": "2.20595"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_605_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_606_min",
+      "ligand_efficiency": "2.04004"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_607_min",
+      "ligand_efficiency": "1.30519"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_608_min",
+      "ligand_efficiency": "1.61674"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_609_min",
+      "ligand_efficiency": "2.18374"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_60_min",
+      "ligand_efficiency": "2.24099"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_610_min",
+      "ligand_efficiency": "1.83461"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_611_min",
+      "ligand_efficiency": "1.35383"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_612_min",
+      "ligand_efficiency": "2.17195"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_613_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_614_min",
+      "ligand_efficiency": "1.87581"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_615_min",
+      "ligand_efficiency": "1.61205"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_616_min",
+      "ligand_efficiency": "1.8915"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_617_min",
+      "ligand_efficiency": "1.35156"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_618_min",
+      "ligand_efficiency": "1.61452"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_619_min",
+      "ligand_efficiency": "2.06389"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_61_min",
+      "ligand_efficiency": "1.27161"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_620_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_621_min",
+      "ligand_efficiency": "1.9859"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_622_min",
+      "ligand_efficiency": "1.99764"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_623_min",
+      "ligand_efficiency": "1.86339"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_624_min",
+      "ligand_efficiency": "1.62589"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_625_min",
+      "ligand_efficiency": "2.3687"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_626_min",
+      "ligand_efficiency": "2.07856"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_627_min",
+      "ligand_efficiency": "0.160688"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_628_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_629_min",
+      "ligand_efficiency": "2.18227"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_62_min",
+      "ligand_efficiency": "1.68003"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_630_min",
+      "ligand_efficiency": "2.23799"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_631_min",
+      "ligand_efficiency": "2.23107"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_632_min",
+      "ligand_efficiency": "1.3197"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_633_min",
+      "ligand_efficiency": "2.01348"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_634_min",
+      "ligand_efficiency": "2.08026"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_635_min",
+      "ligand_efficiency": "1.59816"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_636_min",
+      "ligand_efficiency": "2.19005"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_637_min",
+      "ligand_efficiency": "1.07786"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_638_min",
+      "ligand_efficiency": "1.15223"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_639_min",
+      "ligand_efficiency": "2.03279"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_63_min",
+      "ligand_efficiency": "1.51817"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_640_min",
+      "ligand_efficiency": "1.79951"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_641_min",
+      "ligand_efficiency": "2.03447"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_642_min",
+      "ligand_efficiency": "1.84256"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_643_min",
+      "ligand_efficiency": "2.08727"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_644_min",
+      "ligand_efficiency": "1.87809"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_645_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_646_min",
+      "ligand_efficiency": "1.62533"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_647_min",
+      "ligand_efficiency": "1.56657"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_648_min",
+      "ligand_efficiency": "2.32247"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_649_min",
+      "ligand_efficiency": "2.18783"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_64_min",
+      "ligand_efficiency": "1.94144"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_650_min",
+      "ligand_efficiency": "1.82835"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_651_min",
+      "ligand_efficiency": "2.53621"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_652_min",
+      "ligand_efficiency": "1.92331"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_653_min",
+      "ligand_efficiency": "1.75205"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_654_min",
+      "ligand_efficiency": "2.26283"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_655_min",
+      "ligand_efficiency": "1.85961"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_656_min",
+      "ligand_efficiency": "1.51257"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_657_min",
+      "ligand_efficiency": "2.07476"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_658_min",
+      "ligand_efficiency": "2.21833"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_659_min",
+      "ligand_efficiency": "2.19379"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_65_min",
+      "ligand_efficiency": "1.57249"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_660_min",
+      "ligand_efficiency": "1.82507"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_661_min",
+      "ligand_efficiency": "1.97192"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_662_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_663_min",
+      "ligand_efficiency": "2.12149"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_664_min",
+      "ligand_efficiency": "2.17734"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_665_min",
+      "ligand_efficiency": "1.70428"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_666_min",
+      "ligand_efficiency": "2.1875"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_667_min",
+      "ligand_efficiency": "2.35624"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_668_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_669_min",
+      "ligand_efficiency": "1.8153"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_66_min",
+      "ligand_efficiency": "2.1522"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_670_min",
+      "ligand_efficiency": "1.53345"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_671_min",
+      "ligand_efficiency": "1.03803"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_672_min",
+      "ligand_efficiency": "2.34615"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_673_min",
+      "ligand_efficiency": "1.18436"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_674_min",
+      "ligand_efficiency": "1.764"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_675_min",
+      "ligand_efficiency": "1.98261"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_676_min",
+      "ligand_efficiency": "1.55184"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_677_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_678_min",
+      "ligand_efficiency": "1.68151"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_679_min",
+      "ligand_efficiency": "1.9"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_67_min",
+      "ligand_efficiency": "2.19807"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_680_min",
+      "ligand_efficiency": "2.06663"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_681_min",
+      "ligand_efficiency": "1.43325"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_682_min",
+      "ligand_efficiency": "2.41769"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_683_min",
+      "ligand_efficiency": "1.76395"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_684_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_685_min",
+      "ligand_efficiency": "1.88578"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_686_min",
+      "ligand_efficiency": "1.63235"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_687_min",
+      "ligand_efficiency": "1.64119"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_688_min",
+      "ligand_efficiency": "2.36482"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_689_min",
+      "ligand_efficiency": "2.11815"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_68_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_690_min",
+      "ligand_efficiency": "2.18552"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_691_min",
+      "ligand_efficiency": "1.35549"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_692_min",
+      "ligand_efficiency": "2.00553"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_693_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_694_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_695_min",
+      "ligand_efficiency": "2.17717"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_696_min",
+      "ligand_efficiency": "1.72401"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_697_min",
+      "ligand_efficiency": "1.71138"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_698_min",
+      "ligand_efficiency": "1.80771"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_699_min",
+      "ligand_efficiency": "1.66974"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_69_min",
+      "ligand_efficiency": "2.35213"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_6_min",
+      "ligand_efficiency": "2.17684"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_700_min",
+      "ligand_efficiency": "1.66502"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_701_min",
+      "ligand_efficiency": "2.12309"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_702_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_703_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_704_min",
+      "ligand_efficiency": "2.25973"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_705_min",
+      "ligand_efficiency": "1.77396"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_706_min",
+      "ligand_efficiency": "2.2614"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_707_min",
+      "ligand_efficiency": "2.16734"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_708_min",
+      "ligand_efficiency": "2.62153"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_709_min",
+      "ligand_efficiency": "1.13754"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_70_min",
+      "ligand_efficiency": "2.19764"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_710_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_711_min",
+      "ligand_efficiency": "1.88086"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_712_min",
+      "ligand_efficiency": "1.4204"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_713_min",
+      "ligand_efficiency": "1.86079"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_714_min",
+      "ligand_efficiency": "2.34422"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_715_min",
+      "ligand_efficiency": "1.87013"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_716_min",
+      "ligand_efficiency": "1.7985"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_717_min",
+      "ligand_efficiency": "1.82142"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_718_min",
+      "ligand_efficiency": "1.06198"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_719_min",
+      "ligand_efficiency": "1.86978"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_71_min",
+      "ligand_efficiency": "1.63401"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_720_min",
+      "ligand_efficiency": "1.49296"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_721_min",
+      "ligand_efficiency": "1.04353"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_722_min",
+      "ligand_efficiency": "1.70675"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_723_min",
+      "ligand_efficiency": "2.16221"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_724_min",
+      "ligand_efficiency": "1.97961"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_725_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_726_min",
+      "ligand_efficiency": "2.27422"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_727_min",
+      "ligand_efficiency": "2.15729"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_728_min",
+      "ligand_efficiency": "1.55368"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_729_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_72_min",
+      "ligand_efficiency": "2.34756"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_730_min",
+      "ligand_efficiency": "1.44753"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_731_min",
+      "ligand_efficiency": "1.98653"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_732_min",
+      "ligand_efficiency": "2.12989"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_733_min",
+      "ligand_efficiency": "2.41789"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_734_min",
+      "ligand_efficiency": "2.04218"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_735_min",
+      "ligand_efficiency": "1.87687"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_736_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_737_min",
+      "ligand_efficiency": "1.34592"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_738_min",
+      "ligand_efficiency": "1.99259"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_739_min",
+      "ligand_efficiency": "2.48263"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_73_min",
+      "ligand_efficiency": "1.79996"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_740_min",
+      "ligand_efficiency": "1.84277"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_741_min",
+      "ligand_efficiency": "2.21634"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_742_min",
+      "ligand_efficiency": "2.7182"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_743_min",
+      "ligand_efficiency": "0.960839"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_744_min",
+      "ligand_efficiency": "1.27532"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_745_min",
+      "ligand_efficiency": "1.49091"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_746_min",
+      "ligand_efficiency": "1.62413"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_747_min",
+      "ligand_efficiency": "1.63492"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_748_min",
+      "ligand_efficiency": "2.0194"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_749_min",
+      "ligand_efficiency": "2.15015"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_74_min",
+      "ligand_efficiency": "2.30051"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_750_min",
+      "ligand_efficiency": "1.95753"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_751_min",
+      "ligand_efficiency": "1.91428"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_752_min",
+      "ligand_efficiency": "2.25633"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_753_min",
+      "ligand_efficiency": "2.31336"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_754_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_755_min",
+      "ligand_efficiency": "1.78319"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_756_min",
+      "ligand_efficiency": "1.08946"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_757_min",
+      "ligand_efficiency": "1.60226"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_758_min",
+      "ligand_efficiency": "2.19312"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_759_min",
+      "ligand_efficiency": "1.42281"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_75_min",
+      "ligand_efficiency": "2.1569"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_760_min",
+      "ligand_efficiency": "1.68083"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_761_min",
+      "ligand_efficiency": "1.84893"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_762_min",
+      "ligand_efficiency": "1.83552"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_763_min",
+      "ligand_efficiency": "1.39273"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_764_min",
+      "ligand_efficiency": "1.59386"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_765_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_766_min",
+      "ligand_efficiency": "1.16897"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_767_min",
+      "ligand_efficiency": "1.9754"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_768_min",
+      "ligand_efficiency": "1.97786"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_769_min",
+      "ligand_efficiency": "1.75441"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_76_min",
+      "ligand_efficiency": "2.35409"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_770_min",
+      "ligand_efficiency": "1.90943"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_771_min",
+      "ligand_efficiency": "2.10592"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_772_min",
+      "ligand_efficiency": "2.09006"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_773_min",
+      "ligand_efficiency": "1.78854"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_774_min",
+      "ligand_efficiency": "1.3445"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_775_min",
+      "ligand_efficiency": "1.38852"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_776_min",
+      "ligand_efficiency": "2.03184"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_777_min",
+      "ligand_efficiency": "1.34844"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_778_min",
+      "ligand_efficiency": "1.8283"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_779_min",
+      "ligand_efficiency": "1.72539"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_77_min",
+      "ligand_efficiency": "1.99166"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_780_min",
+      "ligand_efficiency": "1.97542"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_781_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_782_min",
+      "ligand_efficiency": "1.29384"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_783_min",
+      "ligand_efficiency": "2.10984"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_784_min",
+      "ligand_efficiency": "1.79044"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_785_min",
+      "ligand_efficiency": "1.9729"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_786_min",
+      "ligand_efficiency": "1.62865"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_787_min",
+      "ligand_efficiency": "1.47757"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_788_min",
+      "ligand_efficiency": "1.43779"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_789_min",
+      "ligand_efficiency": "2.10891"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_78_min",
+      "ligand_efficiency": "1.88432"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_790_min",
+      "ligand_efficiency": "1.74281"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_791_min",
+      "ligand_efficiency": "1.50455"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_792_min",
+      "ligand_efficiency": "1.59302"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_793_min",
+      "ligand_efficiency": "2.49385"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_794_min",
+      "ligand_efficiency": "2.12747"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_795_min",
+      "ligand_efficiency": "2.29699"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_796_min",
+      "ligand_efficiency": "1.88511"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_797_min",
+      "ligand_efficiency": "2.78003"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_798_min",
+      "ligand_efficiency": "2.12147"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_799_min",
+      "ligand_efficiency": "2.18307"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_79_min",
+      "ligand_efficiency": "1.5035"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_7_min",
+      "ligand_efficiency": "2.45061"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_800_min",
+      "ligand_efficiency": "2.18976"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_801_min",
+      "ligand_efficiency": "2.18074"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_802_min",
+      "ligand_efficiency": "2.16674"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_803_min",
+      "ligand_efficiency": "1.89888"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_804_min",
+      "ligand_efficiency": "1.54916"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_805_min",
+      "ligand_efficiency": "2.16771"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_806_min",
+      "ligand_efficiency": "2.04288"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_807_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_808_min",
+      "ligand_efficiency": "1.82611"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_809_min",
+      "ligand_efficiency": "1.27191"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_80_min",
+      "ligand_efficiency": "2.06509"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_810_min",
+      "ligand_efficiency": "1.655"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_811_min",
+      "ligand_efficiency": "1.79747"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_812_min",
+      "ligand_efficiency": "2.26822"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_813_min",
+      "ligand_efficiency": "2.02451"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_814_min",
+      "ligand_efficiency": "1.95595"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_815_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_816_min",
+      "ligand_efficiency": "1.91817"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_817_min",
+      "ligand_efficiency": "2.22323"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_818_min",
+      "ligand_efficiency": "2.5393"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_819_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_81_min",
+      "ligand_efficiency": "1.96262"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_820_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_821_min",
+      "ligand_efficiency": "2.16014"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_822_min",
+      "ligand_efficiency": "2.14109"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_823_min",
+      "ligand_efficiency": "1.40507"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_824_min",
+      "ligand_efficiency": "0.999334"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_825_min",
+      "ligand_efficiency": "0.0073042"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_826_min",
+      "ligand_efficiency": "1.96256"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_827_min",
+      "ligand_efficiency": "1.62664"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_828_min",
+      "ligand_efficiency": "1.03147"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_829_min",
+      "ligand_efficiency": "1.86565"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_82_min",
+      "ligand_efficiency": "2.17291"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_830_min",
+      "ligand_efficiency": "1.82587"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_831_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_832_min",
+      "ligand_efficiency": "2.0193"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_833_min",
+      "ligand_efficiency": "1.71407"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_834_min",
+      "ligand_efficiency": "1.54114"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_835_min",
+      "ligand_efficiency": "1.7429"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_836_min",
+      "ligand_efficiency": "2.06504"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_837_min",
+      "ligand_efficiency": "1.55157"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_838_min",
+      "ligand_efficiency": "1.92538"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_839_min",
+      "ligand_efficiency": "2.27088"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_83_min",
+      "ligand_efficiency": "1.47137"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_840_min",
+      "ligand_efficiency": "1.64911"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_841_min",
+      "ligand_efficiency": "2.114"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_842_min",
+      "ligand_efficiency": "1.84346"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_843_min",
+      "ligand_efficiency": "1.7354"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_844_min",
+      "ligand_efficiency": "1.44123"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_845_min",
+      "ligand_efficiency": "0.611379"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_846_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_847_min",
+      "ligand_efficiency": "1.70157"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_848_min",
+      "ligand_efficiency": "2.54546"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_849_min",
+      "ligand_efficiency": "1.99559"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_84_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_850_min",
+      "ligand_efficiency": "1.77501"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_851_min",
+      "ligand_efficiency": "2.25433"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_852_min",
+      "ligand_efficiency": "1.57336"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_853_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_854_min",
+      "ligand_efficiency": "2.10134"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_855_min",
+      "ligand_efficiency": "2.04418"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_856_min",
+      "ligand_efficiency": "2.20685"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_857_min",
+      "ligand_efficiency": "2.01609"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_858_min",
+      "ligand_efficiency": "1.73198"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_859_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_85_min",
+      "ligand_efficiency": "2.43742"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_860_min",
+      "ligand_efficiency": "1.85541"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_861_min",
+      "ligand_efficiency": "2.08235"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_862_min",
+      "ligand_efficiency": "2.97761"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_863_min",
+      "ligand_efficiency": "2.1602"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_864_min",
+      "ligand_efficiency": "2.57211"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_865_min",
+      "ligand_efficiency": "1.60103"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_866_min",
+      "ligand_efficiency": "1.97654"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_867_min",
+      "ligand_efficiency": "1.40679"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_868_min",
+      "ligand_efficiency": "2.13614"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_869_min",
+      "ligand_efficiency": "1.90693"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_86_min",
+      "ligand_efficiency": "2.80325"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_870_min",
+      "ligand_efficiency": "1.80826"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_871_min",
+      "ligand_efficiency": "2.11643"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_872_min",
+      "ligand_efficiency": "1.36624"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_873_min",
+      "ligand_efficiency": "2.11787"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_874_min",
+      "ligand_efficiency": "1.9393"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_875_min",
+      "ligand_efficiency": "1.48825"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_876_min",
+      "ligand_efficiency": "1.73032"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_877_min",
+      "ligand_efficiency": "1.23844"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_878_min",
+      "ligand_efficiency": "1.19777"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_879_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_87_min",
+      "ligand_efficiency": "1.65155"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_880_min",
+      "ligand_efficiency": "2.27891"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_881_min",
+      "ligand_efficiency": "2.08065"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_882_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_883_min",
+      "ligand_efficiency": "1.8238"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_884_min",
+      "ligand_efficiency": "1.41146"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_885_min",
+      "ligand_efficiency": "1.73036"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_886_min",
+      "ligand_efficiency": "2.67357"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_887_min",
+      "ligand_efficiency": "2.0409"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_888_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_889_min",
+      "ligand_efficiency": "1.82516"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_88_min",
+      "ligand_efficiency": "1.50741"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_890_min",
+      "ligand_efficiency": "1.10714"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_891_min",
+      "ligand_efficiency": "1.97616"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_892_min",
+      "ligand_efficiency": "1.58129"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_893_min",
+      "ligand_efficiency": "1.67308"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_894_min",
+      "ligand_efficiency": "1.85402"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_895_min",
+      "ligand_efficiency": "1.73145"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_896_min",
+      "ligand_efficiency": "1.32267"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_897_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_898_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_899_min",
+      "ligand_efficiency": "2.00122"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_89_min",
+      "ligand_efficiency": "2.28061"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_8_min",
+      "ligand_efficiency": "1.82241"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_900_min",
+      "ligand_efficiency": "1.48959"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_901_min",
+      "ligand_efficiency": "2.13268"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_902_min",
+      "ligand_efficiency": "2.30403"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_903_min",
+      "ligand_efficiency": "1.87405"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_904_min",
+      "ligand_efficiency": "1.80377"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_905_min",
+      "ligand_efficiency": "2.10992"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_906_min",
+      "ligand_efficiency": "1.36088"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_907_min",
+      "ligand_efficiency": "1.65748"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_908_min",
+      "ligand_efficiency": "2.37624"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_909_min",
+      "ligand_efficiency": "1.58101"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_90_min",
+      "ligand_efficiency": "2.1396"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_910_min",
+      "ligand_efficiency": "1.88948"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_911_min",
+      "ligand_efficiency": "1.64504"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_912_min",
+      "ligand_efficiency": "0.962991"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_913_min",
+      "ligand_efficiency": "1.03186"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_914_min",
+      "ligand_efficiency": "1.6693"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_915_min",
+      "ligand_efficiency": "1.62503"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_916_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_917_min",
+      "ligand_efficiency": "1.54269"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_918_min",
+      "ligand_efficiency": "2.2153"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_919_min",
+      "ligand_efficiency": "1.82817"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_91_min",
+      "ligand_efficiency": "2.1098"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_920_min",
+      "ligand_efficiency": "1.5434"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_921_min",
+      "ligand_efficiency": "1.23509"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_922_min",
+      "ligand_efficiency": "1.38949"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_923_min",
+      "ligand_efficiency": "1.72589"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_924_min",
+      "ligand_efficiency": "1.8132"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_925_min",
+      "ligand_efficiency": "1.23694"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_926_min",
+      "ligand_efficiency": "1.94034"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_927_min",
+      "ligand_efficiency": "1.75624"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_928_min",
+      "ligand_efficiency": "1.26718"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_929_min",
+      "ligand_efficiency": "2.22619"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_92_min",
+      "ligand_efficiency": "1.25442"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_930_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_931_min",
+      "ligand_efficiency": "1.54049"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_932_min",
+      "ligand_efficiency": "1.90504"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_933_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_934_min",
+      "ligand_efficiency": "1.78566"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_935_min",
+      "ligand_efficiency": "1.93716"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_936_min",
+      "ligand_efficiency": "1.503"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_937_min",
+      "ligand_efficiency": "1.58919"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_938_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_939_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_93_min",
+      "ligand_efficiency": "1.88301"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_940_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_941_min",
+      "ligand_efficiency": "1.68168"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_942_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_943_min",
+      "ligand_efficiency": "2.14391"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_944_min",
+      "ligand_efficiency": "1.73172"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_945_min",
+      "ligand_efficiency": "1.86268"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_946_min",
+      "ligand_efficiency": "1.93687"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_947_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_948_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_949_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_94_min",
+      "ligand_efficiency": "1.73951"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_950_min",
+      "ligand_efficiency": "1.8672"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_951_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_952_min",
+      "ligand_efficiency": "1.1901"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_953_min",
+      "ligand_efficiency": "1.96849"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_954_min",
+      "ligand_efficiency": "1.39238"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_955_min",
+      "ligand_efficiency": "2.05584"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_956_min",
+      "ligand_efficiency": "1.49061"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_957_min",
+      "ligand_efficiency": "2.06048"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_958_min",
+      "ligand_efficiency": "1.84054"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_959_min",
+      "ligand_efficiency": "1.85172"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_95_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_960_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_961_min",
+      "ligand_efficiency": "1.69172"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_962_min",
+      "ligand_efficiency": "1.99371"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_963_min",
+      "ligand_efficiency": "2.06151"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_964_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_965_min",
+      "ligand_efficiency": "1.10744"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_966_min",
+      "ligand_efficiency": "1.39095"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_967_min",
+      "ligand_efficiency": "1.42709"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_968_min",
+      "ligand_efficiency": "2.53696"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_969_min",
+      "ligand_efficiency": "2.56207"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_96_min",
+      "ligand_efficiency": "1.04903"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_970_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_971_min",
+      "ligand_efficiency": "1.66072"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_972_min",
+      "ligand_efficiency": "1.77908"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_973_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_974_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_975_min",
+      "ligand_efficiency": "1.12286"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_976_min",
+      "ligand_efficiency": "2.24249"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_977_min",
+      "ligand_efficiency": "1.80823"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_978_min",
+      "ligand_efficiency": "1.60014"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_979_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_97_min",
+      "ligand_efficiency": "2.2589"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_980_min",
+      "ligand_efficiency": "1.72324"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_981_min",
+      "ligand_efficiency": "1.545"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_982_min",
+      "ligand_efficiency": "2.00775"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_983_min",
+      "ligand_efficiency": "1.84651"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_984_min",
+      "ligand_efficiency": "1.95044"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_985_min",
+      "ligand_efficiency": "1.46685"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_986_min",
+      "ligand_efficiency": "2.53354"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_987_min",
+      "ligand_efficiency": "1.546"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_988_min",
+      "ligand_efficiency": "1.42149"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_989_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_98_min",
+      "ligand_efficiency": "1.9938"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_990_min",
+      "ligand_efficiency": "1.55605"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_991_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_992_min",
+      "ligand_efficiency": "2.08387"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_993_min",
+      "ligand_efficiency": ""
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_994_min",
+      "ligand_efficiency": "1.99603"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_995_min",
+      "ligand_efficiency": "2.38132"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_996_min",
+      "ligand_efficiency": "1.80001"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_997_min",
+      "ligand_efficiency": "1.88291"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_998_min",
+      "ligand_efficiency": "2.11356"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_999_min",
+      "ligand_efficiency": "1.5404"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_99_min",
+      "ligand_efficiency": "2.22179"
+    },
+    {
+      "protein": "6PQL_A",
+      "ligand": "fraglig_9_min",
+      "ligand_efficiency": "2.03474"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[INFO] Console - predicting pockets for proteins from dataset [6PQL_A_fixed_min.pdb]
+[INFO] PredictPocketsRoutine - outdir: 6PQL_A_fixed_min_pocket
+[INFO] Model - Loading model from directory (v3 format): /home/li/Documents/trueRHINOS/Utilities/p2rank/models/default
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Dataset - processing dataset [6PQL_A_fixed_min.pdb] using 0 threads
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [6PQL_A_fixed_min.pdb] (1/1)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [6PQL_A_fixed_min.pdb] (1/1)
+[INFO] Protein - loading protein [/home/li/Desktop/Research_Virtual_Lab/Molecular_Docking/proteins/6PQL_A_fixed_min.pdb]
+[INFO] PdbUtils - loading file [6PQL_A_fixed_min.pdb]
+[INFO] Struct - all groups in chain A: 385
+[INFO] Struct - all groups in chain B: 384
+[INFO] Struct - all groups in chain C: 385
+[INFO] Struct - all groups in chain D: 384
+[INFO] Struct - all groups in chain A: 385
+[INFO] Struct - 385 groups in chain A
+[INFO] Struct - all groups in chain B: 384
+[INFO] Struct - 384 groups in chain B
+[INFO] Struct - all groups in chain C: 385
+[INFO] Struct - 385 groups in chain C
+[INFO] Struct - all groups in chain D: 384
+[INFO] Struct - 384 groups in chain D
+[INFO] Protein - structure atoms: 24058
+[INFO] Protein - protein   atoms: 11976
+[INFO] Protein - ignoring ligands
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Protein - SAS points: 20068
+[INFO] Protein - exposed protein atoms: 7104 of 11976
+[INFO] SLinkClusterer - clustering [1065] elements
+[INFO] SLinkClusterer - clusters: [id:11( 1 ), id:24( 1 ), id:51( 1 ), id:77( 18 ), id:83( 41 ), id:87( 4 ), id:92( 73 ), id:94( 1 ), id:100( 1 ), id:125( 1 ), id:142( 6 ), id:144( 2 ), id:147( 3 ), id:149( 112 ), id:176( 2 ), id:211( 84 ), id:248( 1 ), id:286( 1 ), id:306( 1 ), id:363( 6 ), id:374( 1 ), id:377( 1 ), id:383( 30 ), id:405( 101 ), id:413( 4 ), id:419( 1 ), id:420( 1 ), id:421( 1 ), id:422( 1 ), id:425( 3 ), id:429( 2 ), id:431( 1 ), id:432( 2 ), id:465( 1 ), id:468( 5 ), id:509( 8 ), id:563( 1 ), id:592( 1 ), id:621( 29 ), id:638( 1 ), id:646( 1 ), id:650( 13 ), id:666( 112 ), id:679( 5 ), id:681( 1 ), id:682( 1 ), id:683( 1 ), id:707( 4 ), id:736( 13 ), id:760( 79 ), id:773( 20 ), id:868( 2 ), id:871( 9 ), id:901( 2 ), id:911( 41 ), id:931( 107 ), id:940( 1 ), id:946( 1 ), id:947( 1 ), id:948( 1 ), id:972( 1 ), id:973( 2 ), id:992( 35 ), id:1017( 42 ), id:1028( 5 ), id:1040( 8 ), id:1048( 2 )]
+[INFO] SLinkClusterer - clusters together: 1065 / 1065
+[INFO] PocketPredictor - PREDICTING POCKETS.... ====================================
+[INFO] PocketPredictor - SAS POINTS: 20068
+[INFO] PocketPredictor - LIGANDABLE POINTS: 1065
+[INFO] PocketPredictor - CLUSTERS: 67
+[INFO] PocketPredictor - FILTERED CLUSTERS: 30
+[INFO] PocketPredictor - pocket 1 -  surf_atoms:  87   points: 112   score:   48.2
+[INFO] PocketPredictor - pocket 2 -  surf_atoms:  90   points: 112   score:   46.4
+[INFO] PocketPredictor - pocket 3 -  surf_atoms:  78   points: 101   score:   44.7
+[INFO] PocketPredictor - pocket 4 -  surf_atoms:  88   points: 107   score:   43.3
+[INFO] PocketPredictor - pocket 5 -  surf_atoms:  96   points:  84   score:   26.7
+[INFO] PocketPredictor - pocket 6 -  surf_atoms:  80   points:  79   score:   24.8
+[INFO] PocketPredictor - pocket 7 -  surf_atoms:  85   points:  73   score:   23.5
+[INFO] PocketPredictor - pocket 8 -  surf_atoms:  50   points:  42   score:   14.9
+[INFO] PocketPredictor - pocket 9 -  surf_atoms:  66   points:  41   score:   14.0
+[INFO] PocketPredictor - pocket10 -  surf_atoms:  48   points:  41   score:   13.9
+[INFO] PocketPredictor - pocket11 -  surf_atoms:  49   points:  35   score:   12.6
+[INFO] PocketPredictor - pocket12 -  surf_atoms:  44   points:  30   score:   10.0
+[INFO] PocketPredictor - pocket13 -  surf_atoms:  61   points:  29   score:   10.0
+[INFO] PocketPredictor - pocket14 -  surf_atoms:  41   points:  20   score:    8.3
+[INFO] PocketPredictor - pocket15 -  surf_atoms:  38   points:  18   score:    6.6
+[INFO] PocketPredictor - pocket16 -  surf_atoms:  21   points:  13   score:    5.6
+[INFO] PocketPredictor - pocket17 -  surf_atoms:  33   points:  13   score:    4.8
+[INFO] PocketPredictor - pocket18 -  surf_atoms:  20   points:   8   score:    3.8
+[INFO] PocketPredictor - pocket19 -  surf_atoms:  14   points:   9   score:    3.3
+[INFO] PocketPredictor - pocket20 -  surf_atoms:  17   points:   4   score:    2.6
+[INFO] PocketPredictor - pocket21 -  surf_atoms:  24   points:   8   score:    2.6
+[INFO] PocketPredictor - pocket22 -  surf_atoms:  18   points:   5   score:    2.5
+[INFO] PocketPredictor - pocket23 -  surf_atoms:  22   points:   6   score:    2.4
+[INFO] PocketPredictor - pocket24 -  surf_atoms:  17   points:   5   score:    2.2
+[INFO] PocketPredictor - pocket25 -  surf_atoms:  19   points:   6   score:    2.2
+[INFO] PocketPredictor - pocket26 -  surf_atoms:   7   points:   4   score:    1.7
+[INFO] PocketPredictor - pocket27 -  surf_atoms:  20   points:   5   score:    1.7
+[INFO] PocketPredictor - pocket28 -  surf_atoms:  15   points:   3   score:    1.4
+[INFO] PocketPredictor - pocket29 -  surf_atoms:  13   points:   3   score:    0.8
+[INFO] PocketPredictor - pocket30 -  surf_atoms:   9   points:   4   score:    0.6
+[INFO] PredictionVisualizer - copying [/home/li/Desktop/Research_Virtual_Lab/Molecular_Docking/proteins/6PQL_A_fixed_min.pdb] to [6PQL_A_fixed_min_pocket/visualizations/data/6PQL_A_fixed_min.pdb]
+[INFO] Console - predicting pockets finished in 0 hours 0 minutes 27.881 seconds
+[INFO] Console - results saved to directory [/home/li/Desktop/Research_Virtual_Lab/Molecular_Docking/proteins/6PQL_A_fixed_min_pocket]
+[INFO] Console - 
+[INFO] Console - Finished successfully in 0 hours 0 minutes 34.752 seconds.

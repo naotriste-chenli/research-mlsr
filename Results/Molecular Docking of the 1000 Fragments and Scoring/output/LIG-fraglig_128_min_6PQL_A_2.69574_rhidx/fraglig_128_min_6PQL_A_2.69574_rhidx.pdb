@@ -1,0 +1,20 @@
+COMPND    fraglig_128_min_6PQL_A_2.69574_rhidx
+HETATM    1  C1  UNL     1      57.200  58.020 118.070  1.00  0.00           C  
+HETATM    2  C2  UNL     1      58.280  57.660 118.450  1.00  0.00           C  
+HETATM    3  C3  UNL     1      55.950  58.640 117.670  1.00  0.00           C  
+HETATM    4  O1  UNL     1      54.890  58.060 117.860  1.00  0.00           O  
+HETATM    5  O2  UNL     1      56.030  59.980 117.430  1.00  0.00           O  
+HETATM    6  C4  UNL     1      55.000  60.800 117.550  1.00  0.00           C  
+HETATM    7  C5  UNL     1      54.110  61.580 117.740  1.00  0.00           C  
+HETATM    8  C6  UNL     1      59.630  57.400 118.900  1.00  0.00           C  
+HETATM    9  O3  UNL     1      60.310  56.460 118.540  1.00  0.00           O  
+HETATM   10  S1  UNL     1      60.220  58.730 119.960  1.00  0.00           S  
+HETATM   11  C7  UNL     1      61.830  58.740 119.470  1.00  0.00           C  
+CONECT    1    2    2    2    3
+CONECT    2    8
+CONECT    3    4    4    5
+CONECT    5    6
+CONECT    6    7    7    7
+CONECT    8    9    9   10
+CONECT   10   11
+END
